@@ -3186,7 +3186,7 @@
         "id": 261
       },
       {
-        "question": "What does Tom like?",
+        "question": "Read: Tom is from England. He is ten. He likes swimming and reading. He has English on Monday and Wednesday. What does Tom like?",
         "answers": [
           "Drawing and singing",
           "Swimming and reading",
@@ -3197,7 +3197,7 @@
         "id": 262
       },
       {
-        "question": "When does Tom have English?",
+        "question": "Read: Tom is from England. He is ten. He likes swimming and reading. He has English on Monday and Wednesday. When does Tom have English?",
         "answers": [
           "Tuesday and Thursday",
           "Monday and Wednesday",
@@ -3208,7 +3208,7 @@
         "id": 263
       },
       {
-        "question": "How old is Tom?",
+        "question": "Read: Tom is from England. He is ten. He likes swimming and reading. He has English on Monday and Wednesday. How old is Tom?",
         "answers": [
           "nine",
           "ten",
