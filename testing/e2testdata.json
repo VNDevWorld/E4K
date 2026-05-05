@@ -984,5 +984,705 @@
       "id": 145
     }],
   "status": 0
+},
+{
+  "id": 30,
+  "questions":
+  [{
+    "question": "Rearrange words \n my/ This/ brother/ is/ ./",
+    "answers": ["This is my brother.", "My brother is this.", "Is this my brother.", "Brother this my is."],
+    "correctAnswer": "This is my brother.",
+    "id": 146
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["swimming", "running", "dancing", "table"],
+      "correctAnswer": "table",
+      "id": 147
+    },
+    {
+      "question": "___ do you go to bed?",
+      "answers": ["Where", "What time", "How", "Who"],
+      "correctAnswer": "What time",
+      "id": 148
+    },
+    {
+      "question": "There ___ two cats on the roof.",
+      "answers": ["is", "are", "am", "be"],
+      "correctAnswer": "are",
+      "id": 149
+    },
+    {
+      "question": "He ___ TV every evening.",
+      "answers": ["watch", "watches", "watching", "watched"],
+      "correctAnswer": "watches",
+      "id": 150
+    }],
+  "status": 0
+},
+{
+  "id": 31,
+  "questions":
+  [{
+    "question": "What is your favourite colour?",
+    "answers": ["I like blue.", "I'm fine.", "I'm seven.", "I have a dog."],
+    "correctAnswer": "I like blue.",
+    "id": 151
+  },
+    {
+      "question": "How old are you?",
+      "answers": ["I like blue.", "I'm fine.", "I'm seven.", "I have a dog."],
+      "correctAnswer": "I'm seven.",
+      "id": 152
+    },
+    {
+      "question": "Do you have a pet?",
+      "answers": ["I like blue.", "I'm fine.", "I'm seven.", "I have a dog."],
+      "correctAnswer": "I have a dog.",
+      "id": 153
+    },
+    {
+      "question": "Rearrange words \n happy/ We/ today/ are/ ./",
+      "answers": ["We today are happy.", "We are happy today.", "Happy we are today.", "Today are we happy."],
+      "correctAnswer": "We are happy today.",
+      "id": 154
+    },
+    {
+      "question": "Odd one out",
+      "answers": ["red", "blue", "green", "cat"],
+      "correctAnswer": "cat",
+      "id": 155
+    }],
+  "status": 0
+},
+{
+  "id": 32,
+  "questions":
+  [{
+    "question": "Rearrange words \n lunch/ We/ at/ school/ have/ ./",
+    "answers": ["We have lunch at school.", "We lunch have at school.", "Lunch we have at school.", "At school we lunch have."],
+    "correctAnswer": "We have lunch at school.",
+    "id": 156
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["Monday", "Tuesday", "Sunday", "January"],
+      "correctAnswer": "January",
+      "id": 157
+    },
+    {
+      "question": "How many people are in your family?",
+      "answers": ["It's sunny.", "There are four.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "There are four.",
+      "id": 158
+    },
+    {
+      "question": "She ___ her homework after school.",
+      "answers": ["do", "does", "doing", "done"],
+      "correctAnswer": "does",
+      "id": 159
+    },
+    {
+      "question": "What is the weather like today?",
+      "answers": ["It's sunny.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "It's sunny.",
+      "id": 160
+    }],
+  "status": 0
+},
+{
+  "id": 33,
+  "questions":
+  [{
+    "question": "Rearrange words \n the/ opens/ teacher/ door/ The/ ./",
+    "answers": ["The teacher opens the door.", "The door opens the teacher.", "Opens the teacher the door.", "The teacher the door opens."],
+    "correctAnswer": "The teacher opens the door.",
+    "id": 161
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["cat", "dog", "rabbit", "pencil"],
+      "correctAnswer": "pencil",
+      "id": 162
+    },
+    {
+      "question": "___ is your teacher's name?",
+      "answers": ["How", "Where", "What", "Who"],
+      "correctAnswer": "What",
+      "id": 163
+    },
+    {
+      "question": "We ___ play football in the rain.",
+      "answers": ["should", "shouldn't", "must", "can"],
+      "correctAnswer": "shouldn't",
+      "id": 164
+    },
+    {
+      "question": "Where is your school?",
+      "answers": ["It's on Nguyen Trai Street.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "It's on Nguyen Trai Street.",
+      "id": 165
+    }],
+  "status": 0
+},
+{
+  "id": 34,
+  "questions":
+  [{
+    "question": "Rearrange words \n playing/ are/ They/ football/ ./",
+    "answers": ["They are playing football.", "They football are playing.", "Playing they are football.", "Football they are playing."],
+    "correctAnswer": "They are playing football.",
+    "id": 166
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["spring", "summer", "winter", "Thursday"],
+      "correctAnswer": "Thursday",
+      "id": 167
+    },
+    {
+      "question": "What do you do after school?",
+      "answers": ["I play games.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "I play games.",
+      "id": 168
+    },
+    {
+      "question": "There ___ a book on the desk.",
+      "answers": ["is", "are", "am", "be"],
+      "correctAnswer": "is",
+      "id": 169
+    },
+    {
+      "question": "My father ___ to work by car.",
+      "answers": ["go", "goes", "going", "went"],
+      "correctAnswer": "goes",
+      "id": 170
+    }],
+  "status": 0
+},
+{
+  "id": 35,
+  "questions":
+  [{
+    "question": "Rearrange words \n name/ is/ What/ your/ ?/",
+    "answers": ["What is your name?", "What your name is?", "Is what your name?", "Your name what is?"],
+    "correctAnswer": "What is your name?",
+    "id": 171
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["apple", "mango", "orange", "carrot"],
+      "correctAnswer": "carrot",
+      "id": 172
+    },
+    {
+      "question": "Can you ___ a bike?",
+      "answers": ["ride", "rides", "riding", "rode"],
+      "correctAnswer": "ride",
+      "id": 173
+    },
+    {
+      "question": "I ___ breakfast at 7 every morning.",
+      "answers": ["eat", "eats", "eating", "ate"],
+      "correctAnswer": "eat",
+      "id": 174
+    },
+    {
+      "question": "Where does she live?",
+      "answers": ["She lives in Hanoi.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "She lives in Hanoi.",
+      "id": 175
+    }],
+  "status": 0
+},
+{
+  "id": 36,
+  "questions":
+  [{
+    "question": "Rearrange words \n the/ book/ on/ Put/ table/ ./",
+    "answers": ["Put the book on table.", "Put the book on the table.", "On the table put the book.", "The book put on the table."],
+    "correctAnswer": "Put the book on the table.",
+    "id": 176
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["bus", "train", "plane", "house"],
+      "correctAnswer": "house",
+      "id": 177
+    },
+    {
+      "question": "What time ___ you wake up?",
+      "answers": ["do", "does", "did", "are"],
+      "correctAnswer": "do",
+      "id": 178
+    },
+    {
+      "question": "She ___ like eating vegetables.",
+      "answers": ["don't", "doesn't", "isn't", "aren't"],
+      "correctAnswer": "doesn't",
+      "id": 179
+    },
+    {
+      "question": "How do you go to school?",
+      "answers": ["I go by bike.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "I go by bike.",
+      "id": 180
+    }],
+  "status": 0
+},
+{
+  "id": 37,
+  "questions":
+  [{
+    "question": "Rearrange words \n favourite/ What/ sport/ your/ is/ ?/",
+    "answers": ["What is your favourite sport?", "What your favourite sport is?", "Is what your favourite sport?", "Your favourite sport what is?"],
+    "correctAnswer": "What is your favourite sport?",
+    "id": 181
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["soccer", "badminton", "tennis", "swimming pool"],
+      "correctAnswer": "swimming pool",
+      "id": 182
+    },
+    {
+      "question": "___ does your mother work?",
+      "answers": ["What", "Where", "When", "How"],
+      "correctAnswer": "Where",
+      "id": 183
+    },
+    {
+      "question": "We ___ go outside when it rains.",
+      "answers": ["should", "shouldn't", "must", "can"],
+      "correctAnswer": "shouldn't",
+      "id": 184
+    },
+    {
+      "question": "What is your hobby?",
+      "answers": ["I like reading books.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "I like reading books.",
+      "id": 185
+    }],
+  "status": 0
+},
+{
+  "id": 38,
+  "questions":
+  [{
+    "question": "Rearrange words \n sister/ have/ I/ a/ little/ ./",
+    "answers": ["I have a little sister.", "I a little sister have.", "Little I have a sister.", "A little sister I have."],
+    "correctAnswer": "I have a little sister.",
+    "id": 186
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["doctor", "nurse", "teacher", "hospital"],
+      "correctAnswer": "hospital",
+      "id": 187
+    },
+    {
+      "question": "How ___ is your house from school?",
+      "answers": ["far", "long", "much", "many"],
+      "correctAnswer": "far",
+      "id": 188
+    },
+    {
+      "question": "The boys ___ football now.",
+      "answers": ["play", "plays", "are playing", "played"],
+      "correctAnswer": "are playing",
+      "id": 189
+    },
+    {
+      "question": "Who is your best friend?",
+      "answers": ["His name is Minh.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "His name is Minh.",
+      "id": 190
+    }],
+  "status": 0
+},
+{
+  "id": 39,
+  "questions":
+  [{
+    "question": "Rearrange words \n likes/ My/ swimming/ mother/ ./",
+    "answers": ["My mother likes swimming.", "My mother swimming likes.", "Likes my mother swimming.", "Swimming my mother likes."],
+    "correctAnswer": "My mother likes swimming.",
+    "id": 191
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["eyes", "nose", "mouth", "think"],
+      "correctAnswer": "think",
+      "id": 192
+    },
+    {
+      "question": "___ is your birthday?",
+      "answers": ["When", "Where", "Who", "How"],
+      "correctAnswer": "When",
+      "id": 193
+    },
+    {
+      "question": "She ___ been to Da Nang.",
+      "answers": ["have", "has", "is", "was"],
+      "correctAnswer": "has",
+      "id": 194
+    },
+    {
+      "question": "What does your father do?",
+      "answers": ["He is an engineer.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "He is an engineer.",
+      "id": 195
+    }],
+  "status": 0
+},
+{
+  "id": 40,
+  "questions":
+  [{
+    "question": "Rearrange words \n playing/ are/ They/ football/ .",
+    "answers": ["They are playing football.", "They football are playing.", "Playing they are football.", "Football they are playing."],
+    "correctAnswer": "They are playing football.",
+    "id": 196
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["spring", "summer", "winter", "Thursday"],
+      "correctAnswer": "Thursday",
+      "id": 197
+    },
+    {
+      "question": "What do you do after school?",
+      "answers": ["I play games.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "I play games.",
+      "id": 198
+    },
+    {
+      "question": "There ___ a book on the desk.",
+      "answers": ["is", "are", "am", "be"],
+      "correctAnswer": "is",
+      "id": 199
+    },
+    {
+      "question": "My father ___ to work by car.",
+      "answers": ["go", "goes", "going", "went"],
+      "correctAnswer": "goes",
+      "id": 200
+    }],
+  "status": 0
+},
+{
+  "id": 41,
+  "questions":
+  [{
+    "question": "Rearrange words \n name/ is/ What/ your/ ?",
+    "answers": ["What is your name?", "What your name is?", "Is what your name?", "Your name what is?"],
+    "correctAnswer": "What is your name?",
+    "id": 201
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["apple", "mango", "orange", "carrot"],
+      "correctAnswer": "carrot",
+      "id": 202
+    },
+    {
+      "question": "Can you ___ a bike?",
+      "answers": ["ride", "rides", "riding", "rode"],
+      "correctAnswer": "ride",
+      "id": 203
+    },
+    {
+      "question": "I ___ breakfast at 7 every morning.",
+      "answers": ["eat", "eats", "eating", "ate"],
+      "correctAnswer": "eat",
+      "id": 204
+    },
+    {
+      "question": "Where does she live?",
+      "answers": ["She lives in Hanoi.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "She lives in Hanoi.",
+      "id": 205
+    }],
+  "status": 0
+},
+{
+  "id": 42,
+  "questions":
+  [{
+    "question": "Rearrange words \n book/ on/ Put/ the/ table/ the/ .",
+    "answers": ["Put the book on the table.", "Put the book on table.", "On the table put the book.", "The book put on the table."],
+    "correctAnswer": "Put the book on the table.",
+    "id": 206
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["bus", "train", "plane", "house"],
+      "correctAnswer": "house",
+      "id": 207
+    },
+    {
+      "question": "What time ___ you wake up?",
+      "answers": ["do", "does", "did", "are"],
+      "correctAnswer": "do",
+      "id": 208
+    },
+    {
+      "question": "She ___ like eating vegetables.",
+      "answers": ["don't", "doesn't", "isn't", "aren't"],
+      "correctAnswer": "doesn't",
+      "id": 209
+    },
+    {
+      "question": "How do you go to school?",
+      "answers": ["I go by bike.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "I go by bike.",
+      "id": 210
+    }],
+  "status": 0
+},
+{
+  "id": 43,
+  "questions":
+  [{
+    "question": "Rearrange words \n likes/ My/ swimming/ mother/ .",
+    "answers": ["My mother likes swimming.", "My mother swimming likes.", "Likes my mother swimming.", "Swimming my mother likes."],
+    "correctAnswer": "My mother likes swimming.",
+    "id": 211
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["eyes", "nose", "mouth", "think"],
+      "correctAnswer": "think",
+      "id": 212
+    },
+    {
+      "question": "___ is your birthday?",
+      "answers": ["When", "Where", "Who", "How"],
+      "correctAnswer": "When",
+      "id": 213
+    },
+    {
+      "question": "She ___ been to Da Nang.",
+      "answers": ["have", "has", "is", "was"],
+      "correctAnswer": "has",
+      "id": 214
+    },
+    {
+      "question": "What does your father do?",
+      "answers": ["He is an engineer.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "He is an engineer.",
+      "id": 215
+    }],
+  "status": 0
+},
+{
+  "id": 44,
+  "questions":
+  [{
+    "question": "Rearrange words \n sister/ have/ I/ a/ little/ .",
+    "answers": ["I have a little sister.", "I a little sister have.", "Little I have a sister.", "A little sister I have."],
+    "correctAnswer": "I have a little sister.",
+    "id": 216
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["doctor", "nurse", "teacher", "hospital"],
+      "correctAnswer": "hospital",
+      "id": 217
+    },
+    {
+      "question": "How ___ is your house from school?",
+      "answers": ["far", "long", "much", "many"],
+      "correctAnswer": "far",
+      "id": 218
+    },
+    {
+      "question": "The boys ___ football now.",
+      "answers": ["play", "plays", "are playing", "played"],
+      "correctAnswer": "are playing",
+      "id": 219
+    },
+    {
+      "question": "Who is your best friend?",
+      "answers": ["His name is Minh.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "His name is Minh.",
+      "id": 220
+    }],
+  "status": 0
+},
+{
+  "id": 45,
+  "questions":
+  [{
+    "question": "Rearrange words \n favourite/ What/ sport/ your/ is/ ?",
+    "answers": ["What is your favourite sport?", "What your favourite sport is?", "Is what your favourite sport?", "Your favourite sport what is?"],
+    "correctAnswer": "What is your favourite sport?",
+    "id": 221
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["soccer", "badminton", "tennis", "swimming pool"],
+      "correctAnswer": "swimming pool",
+      "id": 222
+    },
+    {
+      "question": "___ does your mother work?",
+      "answers": ["What", "Where", "When", "How"],
+      "correctAnswer": "Where",
+      "id": 223
+    },
+    {
+      "question": "We ___ go outside when it rains.",
+      "answers": ["should", "shouldn't", "must", "can"],
+      "correctAnswer": "shouldn't",
+      "id": 224
+    },
+    {
+      "question": "What is your hobby?",
+      "answers": ["I like reading books.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "I like reading books.",
+      "id": 225
+    }],
+  "status": 0
+},
+{
+  "id": 46,
+  "questions":
+  [{
+    "question": "Rearrange words \n school/ opens/ at/ The/ 7am/ .",
+    "answers": ["The school opens at 7am.", "At 7am the school opens.", "The school at 7am opens.", "Opens the school at 7am."],
+    "correctAnswer": "The school opens at 7am.",
+    "id": 226
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["happy", "sad", "angry", "shout"],
+      "correctAnswer": "shout",
+      "id": 227
+    },
+    {
+      "question": "___ do you like best at school?",
+      "answers": ["What subject", "Where", "When", "Who"],
+      "correctAnswer": "What subject",
+      "id": 228
+    },
+    {
+      "question": "My friend ___ very funny.",
+      "answers": ["am", "is", "are", "be"],
+      "correctAnswer": "is",
+      "id": 229
+    },
+    {
+      "question": "How does she go to the market?",
+      "answers": ["She goes by motorbike.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "She goes by motorbike.",
+      "id": 230
+    }],
+  "status": 0
+},
+{
+  "id": 47,
+  "questions":
+  [{
+    "question": "Rearrange words \n cats/ have/ We/ three/ .",
+    "answers": ["We have three cats.", "Three cats we have.", "Have we three cats.", "Cats three we have."],
+    "correctAnswer": "We have three cats.",
+    "id": 231
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["mango", "pineapple", "watermelon", "bread"],
+      "correctAnswer": "bread",
+      "id": 232
+    },
+    {
+      "question": "___ does he go to the gym?",
+      "answers": ["When", "Where", "Who", "How often"],
+      "correctAnswer": "How often",
+      "id": 233
+    },
+    {
+      "question": "She ___ read very fast.",
+      "answers": ["can", "cans", "could", "able"],
+      "correctAnswer": "can",
+      "id": 234
+    },
+    {
+      "question": "What do you have for breakfast?",
+      "answers": ["I have rice and eggs.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "I have rice and eggs.",
+      "id": 235
+    }],
+  "status": 0
+},
+{
+  "id": 48,
+  "questions":
+  [{
+    "question": "Rearrange words \n homework/ does/ She/ her/ always/ .",
+    "answers": ["She always does her homework.", "Always she does her homework.", "Her homework she always does.", "Does she always her homework."],
+    "correctAnswer": "She always does her homework.",
+    "id": 236
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["jacket", "dress", "shirt", "swim"],
+      "correctAnswer": "swim",
+      "id": 237
+    },
+    {
+      "question": "___ can you do?",
+      "answers": ["When", "Where", "What", "How"],
+      "correctAnswer": "What",
+      "id": 238
+    },
+    {
+      "question": "My parents ___ home at 6pm.",
+      "answers": ["come", "comes", "coming", "came"],
+      "correctAnswer": "come",
+      "id": 239
+    },
+    {
+      "question": "Where do you live?",
+      "answers": ["I live in Ho Chi Minh City.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "I live in Ho Chi Minh City.",
+      "id": 240
+    }],
+  "status": 0
+},
+{
+  "id": 49,
+  "questions":
+  [{
+    "question": "Rearrange words \n every/ washes/ He/ day/ his/ hands/ .",
+    "answers": ["He washes his hands every day.", "Every day he washes his hands.", "Washes he his hands every day.", "His hands he washes every day."],
+    "correctAnswer": "He washes his hands every day.",
+    "id": 241
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["read", "write", "draw", "heavy"],
+      "correctAnswer": "heavy",
+      "id": 242
+    },
+    {
+      "question": "___ is your favourite animal?",
+      "answers": ["When", "Where", "What", "How"],
+      "correctAnswer": "What",
+      "id": 243
+    },
+    {
+      "question": "She ___ to bed at 9pm every night.",
+      "answers": ["go", "goes", "going", "went"],
+      "correctAnswer": "goes",
+      "id": 244
+    },
+    {
+      "question": "What sport do you play?",
+      "answers": ["I play badminton.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "I play badminton.",
+      "id": 245
+    }],
+  "status": 0
 }
 ]
