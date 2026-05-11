@@ -1444,33 +1444,33 @@
   "id": 43,
   "questions":
   [{
-    "question": "Rearrange words \n likes/ My/ swimming/ mother/ .",
-    "answers": ["My mother likes swimming.", "My mother swimming likes.", "Likes my mother swimming.", "Swimming my mother likes."],
-    "correctAnswer": "My mother likes swimming.",
+    "question": "Rearrange words \n school/ walks/ He/ to/ every/ day/ .",
+    "answers": ["He walks to school every day.", "He school walks every day.", "Walks he to school every day.", "Every day he walks school."],
+    "correctAnswer": "He walks to school every day.",
     "id": 211
   },
     {
       "question": "Odd one out",
-      "answers": ["eyes", "nose", "mouth", "think"],
-      "correctAnswer": "think",
+      "answers": ["cat", "dog", "bird", "table"],
+      "correctAnswer": "table",
       "id": 212
     },
     {
-      "question": "___ is your birthday?",
-      "answers": ["When", "Where", "Who", "How"],
-      "correctAnswer": "When",
+      "question": "___ do you usually have for lunch?",
+      "answers": ["What", "When", "Where", "Who"],
+      "correctAnswer": "What",
       "id": 213
     },
     {
-      "question": "She ___ been to Da Nang.",
-      "answers": ["have", "has", "is", "was"],
-      "correctAnswer": "has",
+      "question": "They ___ TV every evening.",
+      "answers": ["watch", "watches", "watching", "watched"],
+      "correctAnswer": "watch",
       "id": 214
     },
     {
-      "question": "What does your father do?",
-      "answers": ["He is an engineer.", "I'm fine.", "I'm nine.", "I have a cat."],
-      "correctAnswer": "He is an engineer.",
+      "question": "Where is your school?",
+      "answers": ["It is near my house.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "It is near my house.",
       "id": 215
     }],
   "status": 0
