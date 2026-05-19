@@ -836,8 +836,8 @@
       "id": 123
     },
     {
-      "question": "Leo ______________ goes swimming in summer because the weather is hot.",
-      "answers": ["never", "always", "rarely", "seldom"],
+      "question": "My sister ______________ practices the piano after dinner.",
+      "answers": ["never", "always", "sometimes", "rarely"],
       "correctAnswer": "always",
       "id": 124
     },
@@ -1548,33 +1548,33 @@
   "id": 46,
   "questions":
   [{
-    "question": "She ___ to music while doing her homework.",
-    "answers": ["listen", "listens", "is listening", "listened"],
-    "correctAnswer": "is listening",
+    "question": "The children ___ in the garden right now.",
+    "answers": ["play", "plays", "are playing", "played"],
+    "correctAnswer": "are playing",
     "id": 226
   },
     {
-      "question": "My parents ___ married for 20 years.",
-      "answers": ["are", "were", "have been", "had been"],
-      "correctAnswer": "have been",
+      "question": "Our school ___ built over 50 years ago.",
+      "answers": ["is", "was", "has been", "had been"],
+      "correctAnswer": "was",
       "id": 227
     },
     {
-      "question": "It is ___ outside. You should wear a coat.",
-      "answers": ["hot", "warm", "cold", "cool"],
-      "correctAnswer": "cold",
+      "question": "It is very ___ today. Let's go to the beach!",
+      "answers": ["windy", "snowy", "sunny", "foggy"],
+      "correctAnswer": "sunny",
       "id": 228
     },
     {
-      "question": "___ is the nearest supermarket?",
-      "answers": ["When", "What", "Where", "Who"],
-      "correctAnswer": "Where",
+      "question": "___ does the library close? ~ At 8 p.m.",
+      "answers": ["Where", "What", "When", "Who"],
+      "correctAnswer": "When",
       "id": 229
     },
     {
-      "question": "Hoa is ___ student in her class.",
-      "answers": ["good", "better", "best", "the best"],
-      "correctAnswer": "the best",
+      "question": "This exercise is ___ of all.",
+      "answers": ["difficult", "more difficult", "most difficult", "the most difficult"],
+      "correctAnswer": "the most difficult",
       "id": 230
     }],
   "status": 0
@@ -1583,31 +1583,31 @@
   "id": 47,
   "questions":
   [{
-    "question": "We should ___ more trees to protect the environment.",
-    "answers": ["plant", "plants", "planting", "planted"],
-    "correctAnswer": "plant",
+    "question": "You ___ wear a helmet when riding a bicycle.",
+    "answers": ["should", "shouldn't", "mustn't", "needn't"],
+    "correctAnswer": "should",
     "id": 231
   },
     {
-      "question": "He ___ in Hanoi since he was born.",
-      "answers": ["live", "lives", "has lived", "lived"],
-      "correctAnswer": "has lived",
+      "question": "She ___ at this company for five years.",
+      "answers": ["work", "works", "has worked", "worked"],
+      "correctAnswer": "has worked",
       "id": 232
     },
     {
-      "question": "___ you ever tried pho before?",
+      "question": "___ they ever visited Ha Long Bay?",
       "answers": ["Do", "Did", "Have", "Are"],
       "correctAnswer": "Have",
       "id": 233
     },
     {
-      "question": "The train ___ at 6 p.m. tomorrow.",
-      "answers": ["leave", "leaves", "will leave", "left"],
-      "correctAnswer": "will leave",
+      "question": "The flight ___ at 9 a.m. tomorrow.",
+      "answers": ["depart", "departs", "will depart", "departed"],
+      "correctAnswer": "will depart",
       "id": 234
     },
     {
-      "question": "This book is ___ interesting ___ that one.",
+      "question": "This film is ___ exciting ___ the last one.",
       "answers": ["more/ than", "as/ as", "so/ that", "too/ to"],
       "correctAnswer": "more/ than",
       "id": 235
@@ -1618,33 +1618,33 @@
   "id": 48,
   "questions":
   [{
-    "question": "Nam ___ his bike to school every day.",
-    "answers": ["ride", "rides", "riding", "rode"],
-    "correctAnswer": "rides",
+    "question": "Lan ___ the piano at the concert last night.",
+    "answers": ["play", "plays", "played", "playing"],
+    "correctAnswer": "played",
     "id": 236
   },
     {
-      "question": "They ___ the project when the power went out.",
-      "answers": ["do", "does", "were doing", "done"],
-      "correctAnswer": "were doing",
+      "question": "We ___ dinner when the guests arrived.",
+      "answers": ["cook", "cooks", "were cooking", "cooked"],
+      "correctAnswer": "were cooking",
       "id": 237
     },
     {
-      "question": "She ___ never eaten Japanese food.",
+      "question": "He ___ already submitted his assignment.",
       "answers": ["is", "was", "has", "have"],
       "correctAnswer": "has",
       "id": 238
     },
     {
-      "question": "It ___ heavily when we left the house.",
-      "answers": ["rain", "rains", "was raining", "rained"],
-      "correctAnswer": "was raining",
+      "question": "The sun ___ brightly all afternoon.",
+      "answers": ["shine", "shines", "was shining", "shone"],
+      "correctAnswer": "was shining",
       "id": 239
     },
     {
-      "question": "Ho Chi Minh City is ___ than Hanoi.",
-      "answers": ["large", "larger", "largest", "more large"],
-      "correctAnswer": "larger",
+      "question": "Da Nang is ___ than Hue.",
+      "answers": ["crowded", "more crowded", "most crowded", "the most crowded"],
+      "correctAnswer": "more crowded",
       "id": 240
     }],
   "status": 0
@@ -1653,33 +1653,33 @@
   "id": 49,
   "questions":
   [{
-    "question": "___ you finish your homework yet?",
-    "answers": ["Do", "Did", "Have", "Are"],
-    "correctAnswer": "Have",
+    "question": "___ she sent the email to the teacher yet?",
+    "answers": ["Do", "Did", "Has", "Is"],
+    "correctAnswer": "Has",
     "id": 241
   },
     {
-      "question": "My brother ___ chess every Sunday afternoon.",
-      "answers": ["play", "plays", "playing", "played"],
-      "correctAnswer": "plays",
+      "question": "My sister ___ the guitar every evening.",
+      "answers": ["practice", "practices", "practicing", "practiced"],
+      "correctAnswer": "practices",
       "id": 242
     },
     {
-      "question": "The children ___ by the time we arrived.",
-      "answers": ["sleep", "slept", "had slept", "were sleeping"],
-      "correctAnswer": "had slept",
+      "question": "The guests ___ by the time the food was ready.",
+      "answers": ["arrive", "arrived", "had arrived", "were arriving"],
+      "correctAnswer": "had arrived",
       "id": 243
     },
     {
-      "question": "We need ___ water to stay healthy.",
-      "answers": ["many", "much", "a lot", "plenty"],
-      "correctAnswer": "plenty",
+      "question": "There isn't ___ sugar left in the jar.",
+      "answers": ["many", "much", "a few", "several"],
+      "correctAnswer": "much",
       "id": 244
     },
     {
-      "question": "She spoke ___ that everyone could hear her.",
-      "answers": ["so loud", "so loudly", "too loud", "very loud"],
-      "correctAnswer": "so loudly",
+      "question": "He ran ___ fast ___ he won the race easily.",
+      "answers": ["so/ that", "such/ that", "too/ to", "as/ as"],
+      "correctAnswer": "so/ that",
       "id": 245
     }],
   "status": 0
@@ -1688,33 +1688,33 @@
   "id": 50,
   "questions":
   [{
-    "question": "My father ___ the newspaper every morning.",
-    "answers": ["read", "reads", "reading", "has read"],
-    "correctAnswer": "reads",
+    "question": "My mother ___ the flowers in the garden every morning.",
+    "answers": ["water", "waters", "watering", "has watered"],
+    "correctAnswer": "waters",
     "id": 246
   },
     {
-      "question": "The bus ___ before we reached the stop.",
+      "question": "The last train ___ before we got to the station.",
       "answers": ["leave", "leaves", "had left", "was leaving"],
       "correctAnswer": "had left",
       "id": 247
     },
     {
-      "question": "How ___ have you been waiting?",
+      "question": "How ___ does it take to walk to school?",
       "answers": ["many", "much", "long", "far"],
       "correctAnswer": "long",
       "id": 248
     },
     {
-      "question": "She is ___ of the three sisters.",
-      "answers": ["tall", "taller", "tallest", "the tallest"],
-      "correctAnswer": "the tallest",
+      "question": "Mai is ___ girl in her neighbourhood.",
+      "answers": ["pretty", "prettier", "prettiest", "the prettiest"],
+      "correctAnswer": "the prettiest",
       "id": 249
     },
     {
-      "question": "They ___ their grandparents every Sunday.",
-      "answers": ["visit", "visits", "visiting", "visited"],
-      "correctAnswer": "visit",
+      "question": "We ___ our cousins twice a month.",
+      "answers": ["meet", "meets", "meeting", "met"],
+      "correctAnswer": "meet",
       "id": 250
     }],
   "status": 0
@@ -1723,33 +1723,33 @@
   "id": 51,
   "questions":
   [{
-    "question": "I ___ this song before. It's beautiful!",
-    "answers": ["hear", "heard", "have heard", "am hearing"],
-    "correctAnswer": "have heard",
+    "question": "Tom ___ Vietnamese food many times. He loves it!",
+    "answers": ["try", "tried", "has tried", "is trying"],
+    "correctAnswer": "has tried",
     "id": 251
   },
     {
-      "question": "She was ___ when she heard the good news.",
-      "answers": ["exciting", "excited", "excite", "excitement"],
-      "correctAnswer": "excited",
+      "question": "The students were ___ when the exam results came out.",
+      "answers": ["worrying", "worried", "worry", "worries"],
+      "correctAnswer": "worried",
       "id": 252
     },
     {
-      "question": "They ___ football when it started to rain.",
-      "answers": ["play", "plays", "were playing", "played"],
-      "correctAnswer": "were playing",
+      "question": "We ___ kites in the park when it started to rain.",
+      "answers": ["fly", "flies", "were flying", "flew"],
+      "correctAnswer": "were flying",
       "id": 253
     },
     {
-      "question": "This is ___ book I have ever read.",
-      "answers": ["good", "better", "the best", "more good"],
-      "correctAnswer": "the best",
+      "question": "That was ___ meal I have ever had.",
+      "answers": ["delicious", "more delicious", "the most delicious", "most delicious"],
+      "correctAnswer": "the most delicious",
       "id": 254
     },
     {
-      "question": "We ___ finish this report by Friday.",
-      "answers": ["should", "must", "will", "have to"],
-      "correctAnswer": "have to",
+      "question": "You ___ eat too much sugar. It's bad for your teeth.",
+      "answers": ["should", "must", "shouldn't", "have to"],
+      "correctAnswer": "shouldn't",
       "id": 255
     }],
   "status": 0

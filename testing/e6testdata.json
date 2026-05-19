@@ -1833,58 +1833,58 @@
   "id": 31,
   "questions": [
     {
-      "question": "The children ___ to school by bus every day.",
+      "question": "My father ___ the car every Sunday morning.",
       "answers": [
-        "A. go",
-        "B. goes",
-        "C. going",
-        "D. went"
+        "A. wash",
+        "B. washes",
+        "C. washing",
+        "D. washed"
       ],
-      "correctAnswer": "A. go",
+      "correctAnswer": "B. washes",
       "id": 151
     },
     {
       "question": "Choose the odd one out.",
       "answers": [
-        "A. chicken",
-        "B. beef",
-        "C. pork",
-        "D. carrot"
+        "A. football",
+        "B. tennis",
+        "C. badminton",
+        "D. hospital"
       ],
-      "correctAnswer": "D. carrot",
+      "correctAnswer": "D. hospital",
       "id": 152
     },
     {
-      "question": "She ___ her room when her mother came home.",
+      "question": "They ___ a kite when the wind stopped.",
       "answers": [
-        "A. clean",
-        "B. cleans",
-        "C. was cleaning",
-        "D. cleaned"
+        "A. fly",
+        "B. flies",
+        "C. were flying",
+        "D. flew"
       ],
-      "correctAnswer": "C. was cleaning",
+      "correctAnswer": "C. were flying",
       "id": 153
     },
     {
-      "question": "You ___ eat too much fast food. It's unhealthy.",
+      "question": "You ___ cross the road when the light is red.",
       "answers": [
         "A. should",
-        "B. shouldn't",
-        "C. must",
+        "B. must",
+        "C. mustn't",
         "D. can"
       ],
-      "correctAnswer": "B. shouldn't",
+      "correctAnswer": "C. mustn't",
       "id": 154
     },
     {
-      "question": "This is ___ interesting film I have ever seen.",
+      "question": "This mountain is ___ in the region.",
       "answers": [
-        "A. more",
-        "B. most",
-        "C. the most",
-        "D. the more"
+        "A. high",
+        "B. higher",
+        "C. highest",
+        "D. the highest"
       ],
-      "correctAnswer": "C. the most",
+      "correctAnswer": "D. the highest",
       "id": 155
     }
   ],
@@ -1894,7 +1894,7 @@
   "id": 32,
   "questions": [
     {
-      "question": "Mai ___ never been to Nha Trang.",
+      "question": "Lan ___ never visited the Old Quarter before.",
       "answers": [
         "A. is",
         "B. was",
@@ -1907,45 +1907,45 @@
     {
       "question": "Choose the odd one out.",
       "answers": [
-        "A. January",
-        "B. March",
-        "C. Tuesday",
-        "D. July"
+        "A. Monday",
+        "B. Friday",
+        "C. Sunday",
+        "D. August"
       ],
-      "correctAnswer": "C. Tuesday",
+      "correctAnswer": "D. August",
       "id": 157
     },
     {
-      "question": "He ___ breakfast before going to school.",
+      "question": "She ___ yoga every evening to relax.",
       "answers": [
-        "A. have",
-        "B. has",
-        "C. having",
-        "D. had"
+        "A. do",
+        "B. does",
+        "C. doing",
+        "D. did"
       ],
-      "correctAnswer": "B. has",
+      "correctAnswer": "B. does",
       "id": 158
     },
     {
-      "question": "We ___ finish this exercise before the bell rings.",
+      "question": "We ___ leave early or we will miss the bus.",
       "answers": [
         "A. should",
         "B. shouldn't",
-        "C. must",
-        "D. can"
+        "C. mustn't",
+        "D. can't"
       ],
-      "correctAnswer": "C. must",
+      "correctAnswer": "A. should",
       "id": 159
     },
     {
-      "question": "Lan is ___ than her brother.",
+      "question": "Minh runs ___ than his classmates.",
       "answers": [
-        "A. short",
-        "B. shorter",
-        "C. shortest",
-        "D. more short"
+        "A. fast",
+        "B. faster",
+        "C. fastest",
+        "D. more fast"
       ],
-      "correctAnswer": "B. shorter",
+      "correctAnswer": "B. faster",
       "id": 160
     }
   ],
@@ -1955,29 +1955,29 @@
   "id": 33,
   "questions": [
     {
-      "question": "There ___ some rice in the bowl.",
+      "question": "There ___ many students in the library now.",
       "answers": [
         "A. is",
         "B. are",
         "C. am",
         "D. be"
       ],
-      "correctAnswer": "A. is",
+      "correctAnswer": "B. are",
       "id": 161
     },
     {
       "question": "Choose the odd one out.",
       "answers": [
-        "A. cycling",
-        "B. jogging",
-        "C. dancing",
-        "D. tired"
+        "A. reading",
+        "B. painting",
+        "C. cooking",
+        "D. cloudy"
       ],
-      "correctAnswer": "D. tired",
+      "correctAnswer": "D. cloudy",
       "id": 162
     },
     {
-      "question": "My sister ___ the piano very well.",
+      "question": "My brother ___ the guitar in a band every weekend.",
       "answers": [
         "A. play",
         "B. plays",
@@ -1988,25 +1988,25 @@
       "id": 163
     },
     {
-      "question": "You ___ drink water regularly to stay healthy.",
+      "question": "You ___ stay up too late. It's bad for your health.",
       "answers": [
         "A. should",
-        "B. shouldn't",
-        "C. mustn't",
-        "D. can't"
+        "B. must",
+        "C. shouldn't",
+        "D. can"
       ],
-      "correctAnswer": "A. should",
+      "correctAnswer": "C. shouldn't",
       "id": 164
     },
     {
-      "question": "Minh is ___ student in our class.",
+      "question": "Ba is ___ boy in his grade.",
       "answers": [
-        "A. tall",
-        "B. taller",
-        "C. tallest",
-        "D. the tallest"
+        "A. smart",
+        "B. smarter",
+        "C. smartest",
+        "D. the smartest"
       ],
-      "correctAnswer": "D. the tallest",
+      "correctAnswer": "D. the smartest",
       "id": 165
     }
   ],
@@ -2016,58 +2016,58 @@
   "id": 34,
   "questions": [
     {
-      "question": "The students ___ a test at the moment.",
+      "question": "The teacher ___ the lesson when I arrived.",
       "answers": [
-        "A. take",
-        "B. takes",
-        "C. are taking",
-        "D. took"
+        "A. explain",
+        "B. explains",
+        "C. was explaining",
+        "D. explained"
       ],
-      "correctAnswer": "C. are taking",
+      "correctAnswer": "C. was explaining",
       "id": 166
     },
     {
       "question": "Choose the odd one out.",
       "answers": [
-        "A. happy",
-        "B. sad",
-        "C. angry",
-        "D. smile"
+        "A. worried",
+        "B. excited",
+        "C. bored",
+        "D. shout"
       ],
-      "correctAnswer": "D. smile",
+      "correctAnswer": "D. shout",
       "id": 167
     },
     {
-      "question": "She ___ aerobics every morning to keep fit.",
+      "question": "He ___ his teeth twice a day.",
       "answers": [
-        "A. do",
-        "B. does",
-        "C. doing",
-        "D. did"
+        "A. brush",
+        "B. brushes",
+        "C. brushing",
+        "D. brushed"
       ],
-      "correctAnswer": "B. does",
+      "correctAnswer": "B. brushes",
       "id": 168
     },
     {
-      "question": "We ___ eat more fruit and vegetables.",
+      "question": "Children ___ play near the road. It's very dangerous.",
       "answers": [
         "A. should",
-        "B. shouldn't",
+        "B. must",
         "C. mustn't",
-        "D. can't"
+        "D. can"
       ],
-      "correctAnswer": "A. should",
+      "correctAnswer": "C. mustn't",
       "id": 169
     },
     {
-      "question": "This exercise is ___ than the last one.",
+      "question": "This bag is ___ than that one.",
       "answers": [
-        "A. difficult",
-        "B. more difficult",
-        "C. most difficult",
-        "D. the most difficult"
+        "A. heavy",
+        "B. heavier",
+        "C. heaviest",
+        "D. the heaviest"
       ],
-      "correctAnswer": "B. more difficult",
+      "correctAnswer": "B. heavier",
       "id": 170
     }
   ],
@@ -2077,51 +2077,51 @@
   "id": 35,
   "questions": [
     {
-      "question": "Hoa ___ her pen pal a letter last week.",
+      "question": "Nam ___ his bicycle to the market this morning.",
       "answers": [
-        "A. write",
-        "B. writes",
-        "C. wrote",
-        "D. writing"
+        "A. ride",
+        "B. rides",
+        "C. rode",
+        "D. riding"
       ],
-      "correctAnswer": "C. wrote",
+      "correctAnswer": "C. rode",
       "id": 171
     },
     {
       "question": "Choose the odd one out.",
       "answers": [
-        "A. swimming",
-        "B. fishing",
-        "C. camping",
-        "D. hungry"
+        "A. snorkelling",
+        "B. sailing",
+        "C. surfing",
+        "D. thirsty"
       ],
-      "correctAnswer": "D. hungry",
+      "correctAnswer": "D. thirsty",
       "id": 172
     },
     {
-      "question": "He ___ TV when his mother called him.",
+      "question": "She ___ a book while her brother played games.",
       "answers": [
-        "A. watch",
-        "B. watches",
-        "C. was watching",
-        "D. watched"
+        "A. read",
+        "B. reads",
+        "C. was reading",
+        "D. is reading"
       ],
-      "correctAnswer": "C. was watching",
+      "correctAnswer": "C. was reading",
       "id": 173
     },
     {
-      "question": "You ___ run in the corridor. It's dangerous.",
+      "question": "You ___ litter in the park. Keep it clean!",
       "answers": [
         "A. should",
-        "B. shouldn't",
-        "C. must",
+        "B. must",
+        "C. mustn't",
         "D. can"
       ],
-      "correctAnswer": "B. shouldn't",
+      "correctAnswer": "C. mustn't",
       "id": 174
     },
     {
-      "question": "This is ___ river in Vietnam.",
+      "question": "The Mekong is ___ river in Southeast Asia.",
       "answers": [
         "A. long",
         "B. longer",
@@ -2138,7 +2138,7 @@
   "id": 36,
   "questions": [
     {
-      "question": "Nam ___ to school by bike every day.",
+      "question": "My mother ___ to the market every morning.",
       "answers": [
         "A. go",
         "B. goes",
@@ -2151,16 +2151,16 @@
     {
       "question": "Choose the odd one out.",
       "answers": [
-        "A. book",
-        "B. pen",
-        "C. ruler",
-        "D. laugh"
+        "A. pencil",
+        "B. eraser",
+        "C. scissors",
+        "D. run"
       ],
-      "correctAnswer": "D. laugh",
+      "correctAnswer": "D. run",
       "id": 177
     },
     {
-      "question": "She ___ already eaten lunch.",
+      "question": "He ___ just finished his science project.",
       "answers": [
         "A. is",
         "B. was",
@@ -2171,25 +2171,25 @@
       "id": 178
     },
     {
-      "question": "Students ___ use their phones during class.",
+      "question": "Passengers ___ smoke on the bus.",
       "answers": [
         "A. should",
-        "B. shouldn't",
-        "C. must",
+        "B. must",
+        "C. mustn't",
         "D. can"
       ],
-      "correctAnswer": "B. shouldn't",
+      "correctAnswer": "C. mustn't",
       "id": 179
     },
     {
-      "question": "Hanoi is ___ city in Vietnam.",
+      "question": "Ho Chi Minh City is ___ city in Vietnam.",
       "answers": [
-        "A. large",
-        "B. larger",
-        "C. largest",
-        "D. the largest"
+        "A. populous",
+        "B. more populous",
+        "C. most populous",
+        "D. the most populous"
       ],
-      "correctAnswer": "D. the largest",
+      "correctAnswer": "D. the most populous",
       "id": 180
     }
   ],

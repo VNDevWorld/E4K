@@ -8238,58 +8238,58 @@
     "id": 136,
     "questions": [
       {
-        "question": "What time does school start?",
+        "question": "Where did you go last Sunday?",
         "answers": [
-          "It starts at 7:30.",
-          "I went by bus.",
-          "I like Science.",
-          "She is tall."
+          "I went to the park.",
+          "I went by train.",
+          "I like History.",
+          "He is funny."
         ],
-        "correctAnswer": "It starts at 7:30.",
+        "correctAnswer": "I went to the park.",
         "id": 676
       },
       {
-        "question": "How did you go to school today?",
+        "question": "How long does it take to get to school?",
         "answers": [
-          "It starts at 7:30.",
-          "I went by bus.",
-          "I like Science.",
-          "She is tall."
+          "I went to the park.",
+          "About 15 minutes.",
+          "I like History.",
+          "He is funny."
         ],
-        "correctAnswer": "I went by bus.",
+        "correctAnswer": "About 15 minutes.",
         "id": 677
       },
       {
-        "question": "What subject do you like?",
+        "question": "What is your favourite sport?",
         "answers": [
-          "It starts at 7:30.",
-          "I went by bus.",
-          "I like Science.",
-          "She is tall."
+          "I went to the park.",
+          "About 15 minutes.",
+          "I like badminton.",
+          "He is funny."
         ],
-        "correctAnswer": "I like Science.",
+        "correctAnswer": "I like badminton.",
         "id": 678
       },
       {
-        "question": "What does your sister look like?",
+        "question": "What does your teacher look like?",
         "answers": [
-          "It starts at 7:30.",
-          "I went by bus.",
-          "I like Science.",
-          "She is tall."
+          "I went to the park.",
+          "About 15 minutes.",
+          "I like badminton.",
+          "He is funny."
         ],
-        "correctAnswer": "She is tall.",
+        "correctAnswer": "He is funny.",
         "id": 679
       },
       {
-        "question": "He ___ to music while doing homework.",
+        "question": "She ___ English every morning before school.",
         "answers": [
-          "listen",
-          "listens",
-          "listening",
-          "listened"
+          "study",
+          "studies",
+          "studying",
+          "studied"
         ],
-        "correctAnswer": "listens",
+        "correctAnswer": "studies",
         "id": 680
       }
     ],
@@ -8299,29 +8299,29 @@
     "id": 137,
     "questions": [
       {
-        "question": "My family ___ to Hoi An last summer.",
+        "question": "We ___ a sandcastle at the beach yesterday.",
         "answers": [
-          "travel",
-          "travels",
-          "travelled",
-          "travelling"
+          "build",
+          "builds",
+          "built",
+          "building"
         ],
-        "correctAnswer": "travelled",
+        "correctAnswer": "built",
         "id": 681
       },
       {
-        "question": "She ___ dinner with her family every evening.",
+        "question": "He ___ his teeth twice a day.",
         "answers": [
-          "have",
-          "has",
-          "having",
-          "had"
+          "brush",
+          "brushes",
+          "brushing",
+          "brushed"
         ],
-        "correctAnswer": "has",
+        "correctAnswer": "brushes",
         "id": 682
       },
       {
-        "question": "___ he swim well?",
+        "question": "___ your brother play chess?",
         "answers": [
           "Do",
           "Does",
@@ -8332,18 +8332,18 @@
         "id": 683
       },
       {
-        "question": "They were ___ when the teacher came in.",
+        "question": "The children ___ songs when the bell rang.",
         "answers": [
-          "talk",
-          "talks",
-          "talking",
-          "talked"
+          "sing",
+          "sings",
+          "were singing",
+          "sang"
         ],
-        "correctAnswer": "talking",
+        "correctAnswer": "were singing",
         "id": 684
       },
       {
-        "question": "I ___ never eaten sushi before.",
+        "question": "I ___ just finished reading that book.",
         "answers": [
           "am",
           "have",
@@ -8360,58 +8360,58 @@
     "id": 138,
     "questions": [
       {
-        "question": "What is your favourite season?",
+        "question": "What is the weather like today?",
         "answers": [
-          "I like summer best.",
-          "I went by bike.",
-          "I like drawing.",
-          "She has short hair."
+          "It is sunny and warm.",
+          "I go by motorbike.",
+          "I like painting.",
+          "He has curly hair."
         ],
-        "correctAnswer": "I like summer best.",
+        "correctAnswer": "It is sunny and warm.",
         "id": 686
       },
       {
-        "question": "How do you go to school?",
+        "question": "How does your father go to work?",
         "answers": [
-          "I like summer best.",
-          "I went by bike.",
-          "I like drawing.",
-          "She has short hair."
+          "It is sunny and warm.",
+          "He goes by motorbike.",
+          "I like painting.",
+          "He has curly hair."
         ],
-        "correctAnswer": "I went by bike.",
+        "correctAnswer": "He goes by motorbike.",
         "id": 687
       },
       {
-        "question": "What do you do in your free time?",
+        "question": "What do you do on weekends?",
         "answers": [
-          "I like summer best.",
-          "I went by bike.",
-          "I like drawing.",
-          "She has short hair."
+          "It is sunny and warm.",
+          "He goes by motorbike.",
+          "I go swimming.",
+          "He has curly hair."
         ],
-        "correctAnswer": "I like drawing.",
+        "correctAnswer": "I go swimming.",
         "id": 688
       },
       {
-        "question": "What does your brother look like?",
+        "question": "What does your grandfather look like?",
         "answers": [
-          "I like summer best.",
-          "I went by bike.",
-          "I like drawing.",
-          "She has short hair."
+          "It is sunny and warm.",
+          "He goes by motorbike.",
+          "I go swimming.",
+          "He has curly hair."
         ],
-        "correctAnswer": "She has short hair.",
+        "correctAnswer": "He has curly hair.",
         "id": 689
       },
       {
-        "question": "Nam ___ his room every weekend.",
+        "question": "Minh ___ his homework before dinner every day.",
         "answers": [
-          "clean",
-          "cleans",
-          "cleaning",
-          "cleaned"
+          "do",
+          "does",
+          "doing",
+          "did"
         ],
-        "correctAnswer": "cleans",
+        "correctAnswer": "does",
         "id": 690
       }
     ],
@@ -8421,29 +8421,29 @@
     "id": 139,
     "questions": [
       {
-        "question": "The students ___ a test right now.",
+        "question": "The teacher ___ a story to the class now.",
         "answers": [
-          "take",
-          "takes",
-          "are taking",
-          "took"
+          "tell",
+          "tells",
+          "is telling",
+          "told"
         ],
-        "correctAnswer": "are taking",
+        "correctAnswer": "is telling",
         "id": 691
       },
       {
-        "question": "We ___ to the zoo last month.",
+        "question": "They ___ a new house last year.",
         "answers": [
-          "go",
-          "goes",
-          "went",
-          "going"
+          "buy",
+          "buys",
+          "bought",
+          "buying"
         ],
-        "correctAnswer": "went",
+        "correctAnswer": "bought",
         "id": 692
       },
       {
-        "question": "___ she speak French?",
+        "question": "___ your friend draw well?",
         "answers": [
           "Do",
           "Does",
@@ -8454,18 +8454,18 @@
         "id": 693
       },
       {
-        "question": "He ___ his bike when it started to rain.",
+        "question": "She ___ a book when the lights went out.",
         "answers": [
-          "ride",
-          "rides",
-          "was riding",
-          "rode"
+          "read",
+          "reads",
+          "was reading",
+          "readed"
         ],
-        "correctAnswer": "was riding",
+        "correctAnswer": "was reading",
         "id": 694
       },
       {
-        "question": "I ___ already finished my project.",
+        "question": "We ___ never seen snow before.",
         "answers": [
           "am",
           "have",
@@ -8482,58 +8482,58 @@
     "id": 140,
     "questions": [
       {
-        "question": "What do you want to be?",
+        "question": "Where did your family go on holiday?",
         "answers": [
-          "I want to be a doctor.",
-          "I went by car.",
-          "I like Maths.",
-          "He is strong."
+          "We went to Phu Quoc.",
+          "We went by plane.",
+          "I like Science.",
+          "She is kind."
         ],
-        "correctAnswer": "I want to be a doctor.",
+        "correctAnswer": "We went to Phu Quoc.",
         "id": 696
       },
       {
-        "question": "How did your family travel there?",
+        "question": "How did you travel to the countryside?",
         "answers": [
-          "I want to be a doctor.",
-          "I went by car.",
-          "I like Maths.",
-          "He is strong."
+          "We went to Phu Quoc.",
+          "We went by train.",
+          "I like Science.",
+          "She is kind."
         ],
-        "correctAnswer": "I went by car.",
+        "correctAnswer": "We went by train.",
         "id": 697
       },
       {
-        "question": "Which subject is your favourite?",
+        "question": "Which activity do you enjoy most?",
         "answers": [
-          "I want to be a doctor.",
-          "I went by car.",
-          "I like Maths.",
-          "He is strong."
+          "We went to Phu Quoc.",
+          "We went by train.",
+          "I like playing football.",
+          "She is kind."
         ],
-        "correctAnswer": "I like Maths.",
+        "correctAnswer": "I like playing football.",
         "id": 698
       },
       {
-        "question": "What is your friend like?",
+        "question": "What is your neighbour like?",
         "answers": [
-          "I want to be a doctor.",
-          "I went by car.",
-          "I like Maths.",
-          "He is strong."
+          "We went to Phu Quoc.",
+          "We went by train.",
+          "I like playing football.",
+          "She is kind."
         ],
-        "correctAnswer": "He is strong.",
+        "correctAnswer": "She is kind.",
         "id": 699
       },
       {
-        "question": "Lan ___ a letter to her pen pal yesterday.",
+        "question": "He ___ his bicycle to the market this morning.",
         "answers": [
-          "write",
-          "writes",
-          "wrote",
-          "writing"
+          "ride",
+          "rides",
+          "rode",
+          "riding"
         ],
-        "correctAnswer": "wrote",
+        "correctAnswer": "rode",
         "id": 700
       }
     ],
@@ -8543,29 +8543,29 @@
     "id": 141,
     "questions": [
       {
-        "question": "My dog ___ very fast.",
+        "question": "The bird ___ beautifully every morning.",
         "answers": [
-          "run",
-          "runs",
-          "running",
-          "ran"
+          "sing",
+          "sings",
+          "singing",
+          "sang"
         ],
-        "correctAnswer": "runs",
+        "correctAnswer": "sings",
         "id": 701
       },
       {
-        "question": "The cat ___ on the sofa when I got home.",
+        "question": "My brother ___ a video game when I called him.",
         "answers": [
-          "sleep",
-          "sleeps",
-          "was sleeping",
-          "slept"
+          "play",
+          "plays",
+          "was playing",
+          "played"
         ],
-        "correctAnswer": "was sleeping",
+        "correctAnswer": "was playing",
         "id": 702
       },
       {
-        "question": "___ your sister play the piano?",
+        "question": "___ your cousin cook well?",
         "answers": [
           "Do",
           "Does",
@@ -8576,7 +8576,7 @@
         "id": 703
       },
       {
-        "question": "We ___ visited the old temple before.",
+        "question": "They ___ never tried pho before.",
         "answers": [
           "am",
           "have",
@@ -8587,14 +8587,14 @@
         "id": 704
       },
       {
-        "question": "She ___ her bag and left the classroom.",
+        "question": "She ___ her umbrella and ran outside.",
         "answers": [
-          "pick up",
-          "picks up",
-          "picked up",
-          "picking up"
+          "grab",
+          "grabs",
+          "grabbed",
+          "grabbing"
         ],
-        "correctAnswer": "picked up",
+        "correctAnswer": "grabbed",
         "id": 705
       }
     ],
