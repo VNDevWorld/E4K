@@ -1339,33 +1339,33 @@
   "id": 40,
   "questions":
   [{
-    "question": "Rearrange words \n playing/ are/ They/ football/ .",
-    "answers": ["They are playing football.", "They football are playing.", "Playing they are football.", "Football they are playing."],
-    "correctAnswer": "They are playing football.",
+    "question": "Rearrange words \n cats/ have/ We/ three/ .",
+    "answers": ["We have three cats.", "We three cats have.", "Have we three cats.", "Three cats we have."],
+    "correctAnswer": "We have three cats.",
     "id": 196
   },
     {
       "question": "Odd one out",
-      "answers": ["spring", "summer", "winter", "Thursday"],
-      "correctAnswer": "Thursday",
+      "answers": ["red", "blue", "green", "table"],
+      "correctAnswer": "table",
       "id": 197
     },
     {
-      "question": "What do you do after school?",
-      "answers": ["I play games.", "I'm fine.", "I'm nine.", "I have a cat."],
-      "correctAnswer": "I play games.",
+      "question": "What is your favourite food?",
+      "answers": ["I like rice.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "I like rice.",
       "id": 198
     },
     {
-      "question": "There ___ a book on the desk.",
+      "question": "There ___ two chairs in the room.",
       "answers": ["is", "are", "am", "be"],
-      "correctAnswer": "is",
+      "correctAnswer": "are",
       "id": 199
     },
     {
-      "question": "My father ___ to work by car.",
-      "answers": ["go", "goes", "going", "went"],
-      "correctAnswer": "goes",
+      "question": "She ___ to school every day.",
+      "answers": ["walk", "walks", "walking", "walked"],
+      "correctAnswer": "walks",
       "id": 200
     }],
   "status": 0
@@ -1374,33 +1374,33 @@
   "id": 41,
   "questions":
   [{
-    "question": "Rearrange words \n name/ is/ What/ your/ ?",
-    "answers": ["What is your name?", "What your name is?", "Is what your name?", "Your name what is?"],
-    "correctAnswer": "What is your name?",
+    "question": "Rearrange words \n morning/ get/ I/ up/ early/ .",
+    "answers": ["I get up early morning.", "I early morning get up.", "Early I get up morning.", "I get up early in the morning."],
+    "correctAnswer": "I get up early in the morning.",
     "id": 201
   },
     {
       "question": "Odd one out",
-      "answers": ["apple", "mango", "orange", "carrot"],
-      "correctAnswer": "carrot",
+      "answers": ["cat", "dog", "fish", "chair"],
+      "correctAnswer": "chair",
       "id": 202
     },
     {
-      "question": "Can you ___ a bike?",
-      "answers": ["ride", "rides", "riding", "rode"],
-      "correctAnswer": "ride",
+      "question": "Can you ___ a song?",
+      "answers": ["sing", "sings", "singing", "sang"],
+      "correctAnswer": "sing",
       "id": 203
     },
     {
-      "question": "I ___ breakfast at 7 every morning.",
-      "answers": ["eat", "eats", "eating", "ate"],
-      "correctAnswer": "eat",
+      "question": "He ___ lunch at school every day.",
+      "answers": ["have", "has", "having", "had"],
+      "correctAnswer": "has",
       "id": 204
     },
     {
-      "question": "Where does she live?",
-      "answers": ["She lives in Hanoi.", "I'm fine.", "I'm nine.", "I have a cat."],
-      "correctAnswer": "She lives in Hanoi.",
+      "question": "What time does he get up?",
+      "answers": ["He gets up at 6.", "I'm fine.", "I'm nine.", "I have a cat."],
+      "correctAnswer": "He gets up at 6.",
       "id": 205
     }],
   "status": 0
