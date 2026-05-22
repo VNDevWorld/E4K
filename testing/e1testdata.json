@@ -3,7 +3,7 @@
     "id": 1,
     "questions": [
       {
-        "question": "Ball",
+        "question": "Pick one word.\n(The sky is blue.) We kick and throw a ___ in sports.",
         "answers": [
           "ball",
           "guava",
@@ -14,7 +14,7 @@
         "id": 1
       },
       {
-        "question": "Book",
+        "question": "Pick one word.\n(The sky is blue.) I read a ___ at school.",
         "answers": [
           "notebook",
           "book",
@@ -25,7 +25,7 @@
         "id": 2
       },
       {
-        "question": "Bird",
+        "question": "Pick one word.\n(My teacher is kind.) A ___ can fly in the sky.",
         "answers": [
           "dog",
           "cat",
@@ -36,7 +36,7 @@
         "id": 3
       },
       {
-        "question": "Boys",
+        "question": "Pick one word.\n(We sing a hello song.) They are young men called ___.",
         "answers": [
           "girls",
           "boys",
@@ -47,7 +47,7 @@
         "id": 4
       },
       {
-        "question": "Bee",
+        "question": "Pick one word.\n(Tom has a red pen.) A ___ makes honey.",
         "answers": [
           "bee",
           "butterfly",
@@ -64,7 +64,7 @@
     "id": 2,
     "questions": [
       {
-        "question": "Cake",
+        "question": "Pick one word.\n(Tom has a red pen.) We eat a sweet ___ at a party.",
         "answers": [
           "cake",
           "candy",
@@ -75,7 +75,7 @@
         "id": 6
       },
       {
-        "question": "Car",
+        "question": "Pick one word.\n(Lan drinks some water.) We go to school in a ___.",
         "answers": [
           "motorbike",
           "bicycle",
@@ -86,7 +86,7 @@
         "id": 7
       },
       {
-        "question": "Cup",
+        "question": "Pick one word.\n(Today we work in class.) I drink from a ___.",
         "answers": [
           "cup",
           "barrel",
@@ -97,7 +97,7 @@
         "id": 8
       },
       {
-        "question": "Cat",
+        "question": "Pick one word.\n(Today we work in class.) My pet that says meow is a ___.",
         "answers": [
           "dog",
           "cat",
@@ -108,7 +108,7 @@
         "id": 9
       },
       {
-        "question": "I have a cake",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "I have a cake.",
           "I have an ice cream.",
@@ -125,7 +125,7 @@
     "id": 3,
     "questions": [
       {
-        "question": "Hat",
+        "question": "Pick one word.\n(We sing a hello song.) I wear a ___ on my head.",
         "answers": [
           "flag",
           "hat",
@@ -136,7 +136,7 @@
         "id": 11
       },
       {
-        "question": "Apple",
+        "question": "Pick one word.\n(We line up at the door.) A crunchy fruit is an ___.",
         "answers": [
           "orange",
           "mango",
@@ -147,7 +147,7 @@
         "id": 12
       },
       {
-        "question": "Bag",
+        "question": "Pick one word.\n(We line up at the door.) My books are in my school ___.",
         "answers": [
           "bag",
           "slippers",
@@ -158,7 +158,7 @@
         "id": 13
       },
       {
-        "question": "This is my apple.",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "This is my tangerine.",
           "This is my orange.",
@@ -169,7 +169,7 @@
         "id": 14
       },
       {
-        "question": "This is my cat.",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "This is my cat.",
           "This is my duck.",
@@ -186,7 +186,7 @@
     "id": 4,
     "questions": [
       {
-        "question": "Door",
+        "question": "Pick one word.\n(Tom has a red pen.) We open the ___ to enter.",
         "answers": [
           "key",
           "towel",
@@ -197,7 +197,7 @@
         "id": 16
       },
       {
-        "question": "Dog",
+        "question": "Pick one word.\n(We line up at the door.) A pet that barks is a ___.",
         "answers": [
           "cat",
           "pig",
@@ -208,7 +208,7 @@
         "id": 17
       },
       {
-        "question": "Desk",
+        "question": "Pick one word.\n(It is time for recess.) I write at my ___.",
         "answers": [
           "desk",
           "chair",
@@ -219,7 +219,7 @@
         "id": 18
       },
       {
-        "question": "This is Bill",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "This is Bi.",
           "This is Bill.",
@@ -230,7 +230,7 @@
         "id": 19
       },
       {
-        "question": "This is my desk",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "This is my chair.",
           "This is my desk.",
@@ -247,7 +247,7 @@
     "id": 5,
     "questions": [
       {
-        "question": "Milk",
+        "question": "Pick one word.\n(We sing a hello song.) A white drink is ___.",
         "answers": [
           "milk",
           "orange juice",
@@ -258,7 +258,7 @@
         "id": 21
       },
       {
-        "question": "Fish",
+        "question": "Pick one word.\n(We line up at the door.) It swims in water. It is a ___.",
         "answers": [
           "fish",
           "cow",
@@ -269,7 +269,7 @@
         "id": 22
       },
       {
-        "question": "Chips",
+        "question": "Pick one word.\n(It is time for recess.) Crunchy fried potatoes are ___.",
         "answers": [
           "notebook",
           "book",
@@ -280,7 +280,7 @@
         "id": 23
       },
       {
-        "question": "I like milk",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "I like cookies.",
           "I like cats.",
@@ -291,7 +291,7 @@
         "id": 24
       },
       {
-        "question": "I like fish",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "I like cats.",
           "I like fish.",
@@ -308,7 +308,7 @@
     "id": 6,
     "questions": [
       {
-        "question": "Umbrella",
+        "question": "Pick one word.\n(Tom has a red pen.) In the rain I use an ___.",
         "answers": [
           "slippers",
           "scissors",
@@ -319,7 +319,7 @@
         "id": 26
       },
       {
-        "question": "Eggs",
+        "question": "Pick one word.\n(The sky is blue.) A hen lays an ___.",
         "answers": [
           "egg",
           "apple",
@@ -330,7 +330,7 @@
         "id": 27
       },
       {
-        "question": "Hens",
+        "question": "Pick one word.\n(The sky is blue.) A mother chicken is a ___.",
         "answers": [
           "rooster",
           "hen",
@@ -341,7 +341,7 @@
         "id": 28
       },
       {
-        "question": "Ben has an umbrella",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "Ben has a pair of scissors.",
           "Ben has a bag of snacks.",
@@ -352,7 +352,7 @@
         "id": 29
       },
       {
-        "question": "They're eggs.",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "They are eggs.",
           "They are fish.",
@@ -369,7 +369,7 @@
     "id": 7,
     "questions": [
       {
-        "question": "Girl",
+        "question": "Pick one word.\n(Lan drinks some water.) A young girl is a ___.",
         "answers": [
           "girl",
           "boy",
@@ -380,7 +380,7 @@
         "id": 31
       },
       {
-        "question": "Garden",
+        "question": "Pick one word.\n(My teacher is kind.) Flowers grow in a ___.",
         "answers": [
           "girl",
           "yard",
@@ -391,7 +391,7 @@
         "id": 32
       },
       {
-        "question": "Gate",
+        "question": "Pick one word.\n(My teacher is kind.) We open the ___ to go in.",
         "answers": [
           "gate",
           "garden",
@@ -402,7 +402,7 @@
         "id": 33
       },
       {
-        "question": "Goat",
+        "question": "Pick one word.\n(The sky is blue.) A farm animal on the hill is a ___.",
         "answers": [
           "cow",
           "mouse",
@@ -413,7 +413,7 @@
         "id": 34
       },
       {
-        "question": "The garden is over there",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "The goat is over there.",
           "The cow is over there.",
@@ -430,7 +430,7 @@
     "id": 8,
     "questions": [
       {
-        "question": "Head",
+        "question": "Pick one word.\n(We line up at the door.) My eyes are on my ___.",
         "answers": [
           "leg",
           "hand",
@@ -441,7 +441,7 @@
         "id": 36
       },
       {
-        "question": "Hair",
+        "question": "Pick one word.\n(Tom has a red pen.) I brush my ___ every day.",
         "answers": [
           "head",
           "hair",
@@ -452,7 +452,7 @@
         "id": 37
       },
       {
-        "question": "Hand",
+        "question": "Pick one word.\n(The sky is blue.) I wave with my ___.",
         "answers": [
           "hand",
           "foot",
@@ -463,7 +463,7 @@
         "id": 38
       },
       {
-        "question": "Hoa has a short hair",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "Hoa has long hair.",
           "Hoa has hair.",
@@ -474,7 +474,7 @@
         "id": 39
       },
       {
-        "question": "Your hand and your head",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "Your hand and your foot.",
           "Your head and your foot.",
@@ -491,7 +491,7 @@
     "id": 9,
     "questions": [
       {
-        "question": "Boxes",
+        "question": "Pick one word.\n(My teacher is kind.) Gifts are in cardboard ___.",
         "answers": [
           "boxes",
           "pots",
@@ -502,7 +502,7 @@
         "id": 41
       },
       {
-        "question": "Bottles",
+        "question": "Pick one word.\n(We sing a hello song.) Milk is in glass ___.",
         "answers": [
           "boxes",
           "bottles",
@@ -513,7 +513,7 @@
         "id": 42
       },
       {
-        "question": "Mops",
+        "question": "Pick one word.\n(It is time for recess.) We clean the floor with ___.",
         "answers": [
           "pots",
           "boxes",
@@ -524,7 +524,7 @@
         "id": 43
       },
       {
-        "question": "Pots",
+        "question": "Pick one word.\n(Lan drinks some water.) Mom cooks in ___.",
         "answers": [
           "mops",
           "boxes",
@@ -535,7 +535,7 @@
         "id": 44
       },
       {
-        "question": "This is a box",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "This is a pot.",
           "This is a box.",
@@ -552,7 +552,7 @@
     "id": 10,
     "questions": [
       {
-        "question": "Mother",
+        "question": "Pick one word.\n(It is time for recess.) My mom is my ___.",
         "answers": [
           "grandmother",
           "father",
@@ -563,7 +563,7 @@
         "id": 46
       },
       {
-        "question": "Mouse",
+        "question": "Pick one word.\n(My teacher is kind.) A small animal is a ___.",
         "answers": [
           "mouse",
           "cat",
@@ -574,7 +574,7 @@
         "id": 47
       },
       {
-        "question": "Monkey",
+        "question": "Pick one word.\n(The sky is blue.) A funny zoo animal is a ___.",
         "answers": [
           "duck",
           "cat",
@@ -585,7 +585,7 @@
         "id": 48
       },
       {
-        "question": "Mary looks so beautiful",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "Mary looks so beautiful.",
           "Mary is not very beautiful.",
@@ -596,7 +596,7 @@
         "id": 49
       },
       {
-        "question": "There are two mouses",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "There are 2 cats.",
           "There are 3 mice.",
@@ -613,7 +613,7 @@
     "id": 11,
     "questions": [
       {
-        "question": "Rearrange words \n name/?/ What’s/ your/",
+        "question": "Rearrange the words:\nname/?/ What’s/ your/",
         "answers": [
           "What’s your name?",
           "What’s name your?",
@@ -624,7 +624,7 @@
         "id": 51
       },
       {
-        "question": "Rearrange words \n desks./ I/ some/ have",
+        "question": "Rearrange the words:\ndesks./ I/ some/ have",
         "answers": [
           "some desks. I have",
           "I have desks. some",
@@ -635,7 +635,7 @@
         "id": 52
       },
       {
-        "question": "Rearrange words \n book/ your/ Open/ ./",
+        "question": "Rearrange the words:\nbook/ your/ Open/ ./",
         "answers": [
           "Open book your.",
           "Open your book.",
@@ -646,7 +646,7 @@
         "id": 53
       },
       {
-        "question": "Teddy bear",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "truck",
           "eraser",
@@ -657,7 +657,7 @@
         "id": 54
       },
       {
-        "question": "Truck",
+        "question": "Pick one word.\n(My teacher is kind.) A big road vehicle is a ___.",
         "answers": [
           "truck",
           "eraser",
@@ -674,7 +674,7 @@
     "id": 12,
     "questions": [
       {
-        "question": "Kite",
+        "question": "Pick one word.\n(We sing a hello song.) On a windy day I fly a ___.",
         "answers": [
           "kite",
           "eraser",
@@ -685,7 +685,7 @@
         "id": 56
       },
       {
-        "question": "Eraser",
+        "question": "Pick one word.\n(We line up at the door.) I rub mistakes with an ___.",
         "answers": [
           "kite",
           "eraser",
@@ -696,7 +696,7 @@
         "id": 57
       },
       {
-        "question": "Cat",
+        "question": "Pick one word.\n(Today we work in class.) My pet that says meow is a ___.",
         "answers": [
           "kite",
           "eraser",
@@ -707,7 +707,7 @@
         "id": 58
       },
       {
-        "question": "Fill in the missing letter \n  T _ n: ten",
+        "question": "Fill in the missing letter:\nT _ n",
         "answers": [
           "a",
           "e",
@@ -718,7 +718,7 @@
         "id": 59
       },
       {
-        "question": "Fill in the missing letter \n  C _ r",
+        "question": "Fill in the missing letter:\nC _ r",
         "answers": [
           "a",
           "e",
@@ -735,7 +735,7 @@
     "id": 13,
     "questions": [
       {
-        "question": "Fill in the missing letter \n  S _ s _ er",
+        "question": "Fill in the missing letter:\nS _ s _ er",
         "answers": [
           "i/p",
           "o/p",
@@ -746,7 +746,7 @@
         "id": 61
       },
       {
-        "question": "Fill in the missing letter \n  M _ ther",
+        "question": "Fill in the missing letter:\nM _ ther",
         "answers": [
           "a",
           "e",
@@ -757,7 +757,7 @@
         "id": 62
       },
       {
-        "question": "Fill in the missing letter \n  T _ y",
+        "question": "Fill in the missing letter:\nT _ y",
         "answers": [
           "a",
           "e",
@@ -768,7 +768,7 @@
         "id": 63
       },
       {
-        "question": "Rearrange words \n Where/ father/ is/ ?/",
+        "question": "Rearrange the words:\nWhere/ father/ is/ ?/",
         "answers": [
           "is father Where?",
           "Where father is?",
@@ -779,7 +779,7 @@
         "id": 64
       },
       {
-        "question": "Rearrange words \n in/ bedroom/ is/ He/ ./",
+        "question": "Rearrange the words:\nin/ bedroom/ is/ He/ ./",
         "answers": [
           "He is in bedroom.",
           "He in is bedroom.",
@@ -796,7 +796,7 @@
     "id": 14,
     "questions": [
       {
-        "question": "Rearrange words \n my/ It/ brother/ is/ ./",
+        "question": "Rearrange the words:\nmy/ It/ brother/ is/ ./",
         "answers": [
           "It is brother my.",
           "It is my brother.",
@@ -807,7 +807,7 @@
         "id": 66
       },
       {
-        "question": "Rearrange words \n ball/ I/ a/ have/ ./",
+        "question": "Rearrange the words:\nball/ I/ a/ have/ ./",
         "answers": [
           "have I a ball.",
           "I a have ball.",
@@ -818,7 +818,7 @@
         "id": 67
       },
       {
-        "question": "Rearrange words \n love/ my/ I/ grandfather/ ./",
+        "question": "Rearrange the words:\nlove/ my/ I/ grandfather/ ./",
         "answers": [
           "my grandfather love I.",
           "I love my grandfather.",
@@ -829,7 +829,7 @@
         "id": 68
       },
       {
-        "question": "Fill in the missing letter \n  he_d",
+        "question": "Fill in the missing letter:\nhe_d",
         "answers": [
           "a",
           "e",
@@ -840,7 +840,7 @@
         "id": 69
       },
       {
-        "question": "Fill in the missing letter \n  ey_",
+        "question": "Fill in the missing letter:\ney_",
         "answers": [
           "a",
           "e",
@@ -857,7 +857,7 @@
     "id": 15,
     "questions": [
       {
-        "question": "Fill in the missing letter \n  f_nger",
+        "question": "Fill in the missing letter:\nf_nger",
         "answers": [
           "a",
           "e",
@@ -868,7 +868,7 @@
         "id": 71
       },
       {
-        "question": "Fill in the missing letter \n  ha_d",
+        "question": "Fill in the missing letter:\nha_d",
         "answers": [
           "a",
           "p",
@@ -879,7 +879,7 @@
         "id": 72
       },
       {
-        "question": "Fill in the missing letter \n  l_g",
+        "question": "Fill in the missing letter:\nl_g",
         "answers": [
           "a",
           "e",
@@ -890,7 +890,7 @@
         "id": 73
       },
       {
-        "question": "Fill in the missing letter \n  e_rs",
+        "question": "Fill in the missing letter:\ne_rs",
         "answers": [
           "a",
           "e",
@@ -901,7 +901,7 @@
         "id": 74
       },
       {
-        "question": "Fill in the missing letter \n  fe_t",
+        "question": "Fill in the missing letter:\nfe_t",
         "answers": [
           "a",
           "e",
@@ -918,7 +918,7 @@
     "id": 16,
     "questions": [
       {
-        "question": "Fill in the missing letter \n  n_se",
+        "question": "Fill in the missing letter:\nn_se",
         "answers": [
           "a",
           "e",
@@ -929,7 +929,7 @@
         "id": 76
       },
       {
-        "question": "Fill in the missing letter \n  a_m",
+        "question": "Fill in the missing letter:\na_m",
         "answers": [
           "a",
           "p",
@@ -940,7 +940,7 @@
         "id": 77
       },
       {
-        "question": "Fill in the missing letter \n  t_es",
+        "question": "Fill in the missing letter:\nt_es",
         "answers": [
           "a",
           "e",
@@ -951,7 +951,7 @@
         "id": 78
       },
       {
-        "question": "one",
+        "question": "How do you write the number 1 in English?",
         "answers": [
           "one",
           "two",
@@ -962,7 +962,7 @@
         "id": 79
       },
       {
-        "question": "three",
+        "question": "How do you write the number 3 in English?",
         "answers": [
           "one",
           "two",
@@ -979,7 +979,7 @@
     "id": 17,
     "questions": [
       {
-        "question": "four",
+        "question": "How do you write the number 4 in English?",
         "answers": [
           "one",
           "two",
@@ -990,7 +990,7 @@
         "id": 81
       },
       {
-        "question": "two",
+        "question": "How do you write the number 2 in English?",
         "answers": [
           "one",
           "two",
@@ -1001,7 +1001,7 @@
         "id": 82
       },
       {
-        "question": "five",
+        "question": "How do you write the number 5 in English?",
         "answers": [
           "six",
           "seven",
@@ -1012,7 +1012,7 @@
         "id": 83
       },
       {
-        "question": "seven",
+        "question": "How do you write the number 7 in English?",
         "answers": [
           "six",
           "seven",
@@ -1023,7 +1023,7 @@
         "id": 84
       },
       {
-        "question": "six",
+        "question": "How do you write the number 6 in English?",
         "answers": [
           "six",
           "seven",
@@ -1040,7 +1040,7 @@
     "id": 18,
     "questions": [
       {
-        "question": "eight",
+        "question": "How do you write the number 8 in English?",
         "answers": [
           "six",
           "seven",
@@ -1051,7 +1051,7 @@
         "id": 86
       },
       {
-        "question": "nine",
+        "question": "How do you write the number 9 in English?",
         "answers": [
           "six",
           "nine",
@@ -1062,7 +1062,7 @@
         "id": 87
       },
       {
-        "question": "ten",
+        "question": "How do you write the number 10 in English?",
         "answers": [
           "six",
           "nine",
@@ -1073,7 +1073,7 @@
         "id": 88
       },
       {
-        "question": "sister",
+        "question": "Pick one word.\n(We line up at the door.) My girl sibling is my ___.",
         "answers": [
           "queen",
           "water",
@@ -1084,7 +1084,7 @@
         "id": 89
       },
       {
-        "question": "water",
+        "question": "Pick one word.\n(The sky is blue.) When thirsty I drink ___.",
         "answers": [
           "queen",
           "water",
@@ -1101,7 +1101,7 @@
     "id": 19,
     "questions": [
       {
-        "question": "queen",
+        "question": "Pick one word.\n(Lan drinks some water.) A woman who rules is a ___.",
         "answers": [
           "queen",
           "water",
@@ -1112,7 +1112,7 @@
         "id": 91
       },
       {
-        "question": "brother",
+        "question": "Pick one word.\n(Lan drinks some water.) My boy sibling is my ___.",
         "answers": [
           "queen",
           "water",
@@ -1123,7 +1123,7 @@
         "id": 92
       },
       {
-        "question": "ostrich",
+        "question": "Pick one word.\n(Tom has a red pen.) A very big bird is an ___.",
         "answers": [
           "ostrich",
           "socks",
@@ -1134,7 +1134,7 @@
         "id": 93
       },
       {
-        "question": "shirt",
+        "question": "Pick one word.\n(We line up at the door.) I wear a ___ on my body.",
         "answers": [
           "ostrich",
           "socks",
@@ -1145,7 +1145,7 @@
         "id": 94
       },
       {
-        "question": "socks",
+        "question": "Pick one word.\n(The sky is blue.) I wear ___ on my feet.",
         "answers": [
           "ostrich",
           "socks",
@@ -1162,7 +1162,7 @@
     "id": 20,
     "questions": [
       {
-        "question": "octopus",
+        "question": "Pick one word.\n(We sing a hello song.) A sea animal is an ___.",
         "answers": [
           "ostrich",
           "socks",
@@ -1173,7 +1173,7 @@
         "id": 96
       },
       {
-        "question": "Fill in the missing letter \n  bo… k",
+        "question": "Fill in the missing letter:\nbo… k",
         "answers": [
           "a",
           "e",
@@ -1184,7 +1184,7 @@
         "id": 97
       },
       {
-        "question": "Fill in the missing letter \n  p…n",
+        "question": "Fill in the missing letter:\np…n",
         "answers": [
           "a",
           "e",
@@ -1195,7 +1195,7 @@
         "id": 98
       },
       {
-        "question": "Fill in the missing letter \n  n…me",
+        "question": "Fill in the missing letter:\nn…me",
         "answers": [
           "a",
           "e",
@@ -1206,7 +1206,7 @@
         "id": 99
       },
       {
-        "question": "Fill in the missing letter \n  hell…",
+        "question": "Fill in the missing letter:\nhell…",
         "answers": [
           "a",
           "e",
@@ -1223,7 +1223,7 @@
     "id": 21,
     "questions": [
       {
-        "question": "c...t",
+        "question": "Fill in the missing letter:\nc...t",
         "answers": [
           "a",
           "e",
@@ -1234,7 +1234,7 @@
         "id": 101
       },
       {
-        "question": "fi...h",
+        "question": "Fill in the missing letter:\nfi...h",
         "answers": [
           "p",
           "s",
@@ -1245,7 +1245,7 @@
         "id": 102
       },
       {
-        "question": "g...at",
+        "question": "Fill in the missing letter:\ng...at",
         "answers": [
           "a",
           "e",
@@ -1256,7 +1256,7 @@
         "id": 103
       },
       {
-        "question": "ap..le",
+        "question": "Fill in the missing letter:\nap..le",
         "answers": [
           "p",
           "s",
@@ -1267,7 +1267,7 @@
         "id": 104
       },
       {
-        "question": "d..g",
+        "question": "Fill in the missing letter:\nd..g",
         "answers": [
           "a",
           "e",
@@ -1284,7 +1284,7 @@
     "id": 22,
     "questions": [
       {
-        "question": "h..n",
+        "question": "Fill in the missing letter:\nh..n",
         "answers": [
           "a",
           "e",
@@ -1428,7 +1428,7 @@
         "id": 118
       },
       {
-        "question": "One",
+        "question": "The number is 1. Pick the right English word.",
         "answers": [
           "one",
           "two",
@@ -1439,7 +1439,7 @@
         "id": 119
       },
       {
-        "question": "Three",
+        "question": "The number is 3. Pick the right English word.",
         "answers": [
           "five",
           "two",
@@ -1450,7 +1450,7 @@
         "id": 115
       },
       {
-        "question": "Two",
+        "question": "The number is 2. Pick the right English word.",
         "answers": [
           "five",
           "two",
@@ -1467,7 +1467,7 @@
     "id": 25,
     "questions": [
       {
-        "question": "Four",
+        "question": "The number is 4. Pick the right English word.",
         "answers": [
           "five",
           "seven",
@@ -1478,7 +1478,7 @@
         "id": 121
       },
       {
-        "question": "Five",
+        "question": "The number is 5. Pick the right English word.",
         "answers": [
           "five",
           "seven",
@@ -1489,7 +1489,7 @@
         "id": 122
       },
       {
-        "question": "Six",
+        "question": "The number is 6. Pick the right English word.",
         "answers": [
           "nine",
           "seven",
@@ -1955,7 +1955,7 @@
     "id": 33,
     "questions": [
       {
-        "question": "Dog",
+        "question": "Pick one word.\n(We line up at the door.) A pet that barks is a ___.",
         "answers": [
           "dog",
           "cat",
@@ -1966,7 +1966,7 @@
         "id": 161
       },
       {
-        "question": "Fish",
+        "question": "Pick one word.\n(We line up at the door.) It swims in water. It is a ___.",
         "answers": [
           "fish",
           "crab",
@@ -1977,7 +1977,7 @@
         "id": 162
       },
       {
-        "question": "Milk",
+        "question": "Pick one word.\n(We sing a hello song.) A white drink is ___.",
         "answers": [
           "water",
           "milk",
@@ -1988,7 +1988,7 @@
         "id": 163
       },
       {
-        "question": "Tree",
+        "question": "Pick one word.\n(Today we work in class.) A tall plant is a ___.",
         "answers": [
           "flower",
           "grass",
@@ -1999,7 +1999,7 @@
         "id": 164
       },
       {
-        "question": "What is 5 - 2?",
+        "question": "Your friend says: \"What is 5 - 2?\"\nWhat is the best reply?",
         "answers": [
           "2",
           "3",
@@ -2016,7 +2016,7 @@
     "id": 34,
     "questions": [
       {
-        "question": "Sun",
+        "question": "Pick one word.\n(Lan drinks some water.) The bright day sky light is the ___.",
         "answers": [
           "sun",
           "moon",
@@ -2027,7 +2027,7 @@
         "id": 166
       },
       {
-        "question": "Rain",
+        "question": "Pick one word.\n(We line up at the door.) Water from clouds is ___.",
         "answers": [
           "snow",
           "rain",
@@ -2038,7 +2038,7 @@
         "id": 167
       },
       {
-        "question": "Hand",
+        "question": "Pick one word.\n(The sky is blue.) I wave with my ___.",
         "answers": [
           "leg",
           "hand",
@@ -2138,7 +2138,7 @@
     "id": 36,
     "questions": [
       {
-        "question": "Nose",
+        "question": "Pick one word.\n(We sing a hello song.) I smell with my ___.",
         "answers": [
           "ear",
           "eye",
@@ -2149,7 +2149,7 @@
         "id": 176
       },
       {
-        "question": "Flower",
+        "question": "Pick one word.\n(It is time for recess.) A pretty plant is a ___.",
         "answers": [
           "tree",
           "flower",
@@ -2160,7 +2160,7 @@
         "id": 177
       },
       {
-        "question": "Door",
+        "question": "Pick one word.\n(Tom has a red pen.) We open the ___ to enter.",
         "answers": [
           "window",
           "door",
@@ -2199,7 +2199,7 @@
     "id": 37,
     "questions": [
       {
-        "question": "Chair",
+        "question": "Pick one word.\n(It is time for recess.) I sit on a ___.",
         "answers": [
           "table",
           "chair",
@@ -2210,7 +2210,7 @@
         "id": 181
       },
       {
-        "question": "Egg",
+        "question": "Pick one word.\n(The sky is blue.) A hen lays an ___.",
         "answers": [
           "egg",
           "chicken",
@@ -2260,7 +2260,7 @@
     "id": 38,
     "questions": [
       {
-        "question": "Water",
+        "question": "Pick one word.\n(The sky is blue.) When thirsty I drink ___.",
         "answers": [
           "fire",
           "earth",
@@ -2271,7 +2271,7 @@
         "id": 186
       },
       {
-        "question": "Bread",
+        "question": "Pick one word.\n(Lan drinks some water.) I eat ___ for a snack.",
         "answers": [
           "bread",
           "sweet cake",
@@ -2321,7 +2321,7 @@
     "id": 39,
     "questions": [
       {
-        "question": "Eye",
+        "question": "Pick one word.\n(The sky is blue.) I see with my ___.",
         "answers": [
           "ear",
           "eye",
@@ -2332,14 +2332,14 @@
         "id": 191
       },
       {
-        "question": "Pen",
+        "question": "Pick one word.\n(The sky is blue.) I write with a ___.",
         "answers": [
           "pencil",
           "eraser",
-          "ink pen",
+          "pen",
           "ruler"
         ],
-        "correctAnswer": "ink pen",
+        "correctAnswer": "pen",
         "id": 192
       },
       {
@@ -2382,7 +2382,7 @@
     "id": 40,
     "questions": [
       {
-        "question": "Window",
+        "question": "Pick one word.\n(Today we work in class.) I look outside the ___.",
         "answers": [
           "window",
           "door",
@@ -2393,14 +2393,14 @@
         "id": 196
       },
       {
-        "question": "Ice cream",
+        "question": "Which sentence is correct in English?",
         "answers": [
           "ice cream stick",
           "cream cake",
-          "cream",
+          "ice cream",
           "cold milk"
         ],
-        "correctAnswer": "cream",
+        "correctAnswer": "ice cream",
         "id": 197
       },
       {
@@ -2443,7 +2443,7 @@
     "id": 41,
     "questions": [
       {
-        "question": "Shoe",
+        "question": "Pick one word.\n(We line up at the door.) I wear a ___ on my foot.",
         "answers": [
           "hat",
           "sandals",
@@ -2454,7 +2454,7 @@
         "id": 201
       },
       {
-        "question": "Orange",
+        "question": "Pick one word.\n(Tom has a red pen.) A citrus fruit is an ___.",
         "answers": [
           "orange",
           "lemon",
@@ -2504,7 +2504,7 @@
     "id": 42,
     "questions": [
       {
-        "question": "Bed",
+        "question": "Pick one word.\n(The sky is blue.) I sleep in my ___.",
         "answers": [
           "table",
           "wardrobe",
@@ -2515,7 +2515,7 @@
         "id": 206
       },
       {
-        "question": "Banana",
+        "question": "Pick one word.\n(My teacher is kind.) A yellow fruit is a ___.",
         "answers": [
           "mango",
           "banana",
@@ -2565,7 +2565,7 @@
     "id": 43,
     "questions": [
       {
-        "question": "Ear",
+        "question": "Pick one word.\n(Today we work in class.) I hear with my ___.",
         "answers": [
           "ear",
           "eye",
@@ -2576,7 +2576,7 @@
         "id": 211
       },
       {
-        "question": "Star",
+        "question": "Pick one word.\n(We line up at the door.) A shiny night sky light is a ___.",
         "answers": [
           "planet",
           "star",
@@ -2609,7 +2609,7 @@
         "id": 214
       },
       {
-        "question": "Desk",
+        "question": "Pick one word.\n(It is time for recess.) I write at my ___.",
         "answers": [
           "chair",
           "desk",
@@ -2626,7 +2626,7 @@
     "id": 44,
     "questions": [
       {
-        "question": "Mouth",
+        "question": "Pick one word.\n(We sing a hello song.) I eat with my ___.",
         "answers": [
           "ear",
           "eye",
@@ -2670,7 +2670,7 @@
         "id": 219
       },
       {
-        "question": "Bag",
+        "question": "Pick one word.\n(We line up at the door.) My books are in my school ___.",
         "answers": [
           "book",
           "bag",
@@ -2687,7 +2687,7 @@
     "id": 45,
     "questions": [
       {
-        "question": "Hat",
+        "question": "Pick one word.\n(We sing a hello song.) I wear a ___ on my head.",
         "answers": [
           "hat",
           "shirt",
@@ -2731,7 +2731,7 @@
         "id": 224
       },
       {
-        "question": "Spoon",
+        "question": "Pick one word.\n(It is time for recess.) I eat soup with a ___.",
         "answers": [
           "chopsticks",
           "spoon",
@@ -2748,7 +2748,7 @@
     "id": 46,
     "questions": [
       {
-        "question": "Horse",
+        "question": "Pick one word.\n(My teacher is kind.) You can ride a ___.",
         "answers": [
           "horse",
           "cow",
@@ -2792,7 +2792,7 @@
         "id": 229
       },
       {
-        "question": "Clock",
+        "question": "Pick one word.\n(Tom has a red pen.) The word starts with W: ___",
         "answers": [
           "wall clock",
           "wristwatch",
@@ -2809,9 +2809,9 @@
     "id": 47,
     "questions": [
       {
-        "question": "Pencil",
+        "question": "Pick one word.\n(The sky is blue.) I draw with a ___.",
         "answers": [
-          "ink pen",
+          "pen",
           "pencil",
           "marker",
           "crayon"
@@ -2853,12 +2853,12 @@
         "id": 234
       },
       {
-        "question": "Butter",
+        "question": "Pick one word.\n(Lan drinks some water.) Yellow spread on bread is ___.",
         "answers": [
           "cheese",
           "butter",
           "milk",
-          "cream"
+          "ice cream"
         ],
         "correctAnswer": "butter",
         "id": 235
@@ -2870,7 +2870,7 @@
     "id": 48,
     "questions": [
       {
-        "question": "Duck",
+        "question": "Pick one word.\n(It is time for recess.) A bird that quacks is a ___.",
         "answers": [
           "duck",
           "chicken",
@@ -2914,7 +2914,7 @@
         "id": 239
       },
       {
-        "question": "Eraser",
+        "question": "Pick one word.\n(We line up at the door.) I rub mistakes with an ___.",
         "answers": [
           "ruler",
           "pen",
@@ -2931,7 +2931,7 @@
     "id": 49,
     "questions": [
       {
-        "question": "Rabbit",
+        "question": "Pick one word.\n(Tom has a red pen.) A small animal with long ears is a ___.",
         "answers": [
           "rabbit",
           "squirrel",
@@ -2975,7 +2975,7 @@
         "id": 244
       },
       {
-        "question": "Key",
+        "question": "Pick one word.\n(My teacher is kind.) I open a lock with a ___.",
         "answers": [
           "door lock",
           "key",
@@ -2992,7 +2992,7 @@
     "id": 50,
     "questions": [
       {
-        "question": "Lamp",
+        "question": "Pick one word.\n(We line up at the door.) It gives light. It is a ___.",
         "answers": [
           "lamp",
           "fan",
@@ -3036,7 +3036,7 @@
         "id": 249
       },
       {
-        "question": "Corn",
+        "question": "Pick one word.\n(We line up at the door.) Yellow grains on a cob are ___.",
         "answers": [
           "corn",
           "potato",
@@ -3053,7 +3053,7 @@
     "id": 51,
     "questions": [
       {
-        "question": "Butterfly",
+        "question": "Pick one word.\n(My teacher is kind.) An insect with wings is a ___.",
         "answers": [
           "beetle",
           "bee",
@@ -3097,7 +3097,7 @@
         "id": 254
       },
       {
-        "question": "Sock",
+        "question": "Pick one word.\n(The sky is blue.) I wear ___ on my feet.",
         "answers": [
           "hat",
           "sandals",
@@ -3114,7 +3114,7 @@
     "id": 52,
     "questions": [
       {
-        "question": "Tomato",
+        "question": "Pick one word.\n(Tom has a red pen.) A red salad vegetable is a ___.",
         "answers": [
           "tomato",
           "chili",
@@ -3158,10 +3158,10 @@
         "id": 259
       },
       {
-        "question": "Bowl",
+        "question": "Pick one word.\n(Tom has a red pen.) I eat rice from a ___.",
         "answers": [
           "bowl",
-          "plate",
+          "Đĩa",
           "cup",
           "spoon"
         ],

@@ -369,7 +369,7 @@
     "id": 7,
     "questions": [
       {
-        "question": "Fill in the missing letter \n  h _ i _",
+        "question": "Fill in the missing letter:\nh _ i _",
         "answers": [
           "a/r",
           "a/n",
@@ -380,7 +380,7 @@
         "id": 31
       },
       {
-        "question": "Fill in the missing letter \n  e _ es",
+        "question": "Fill in the missing letter:\ne _ es",
         "answers": [
           "a",
           "e",
@@ -391,7 +391,7 @@
         "id": 32
       },
       {
-        "question": "Fill in the missing letter \n  ea _s",
+        "question": "Fill in the missing letter:\nea _s",
         "answers": [
           "a",
           "e",
@@ -402,7 +402,7 @@
         "id": 33
       },
       {
-        "question": "Fill in the missing letter \n  n o _ e",
+        "question": "Fill in the missing letter:\nn o _ e",
         "answers": [
           "i",
           "s",
@@ -413,7 +413,7 @@
         "id": 34
       },
       {
-        "question": "Fill in the missing letter \n  m _ _ th",
+        "question": "Fill in the missing letter:\nm _ _ th",
         "answers": [
           "o/p",
           "o/u",
@@ -430,7 +430,7 @@
     "id": 8,
     "questions": [
       {
-        "question": "Fill in the missing letter \n  t _ _ th",
+        "question": "Fill in the missing letter:\nt _ _ th",
         "answers": [
           "o/o",
           "a/a",
@@ -441,7 +441,7 @@
         "id": 36
       },
       {
-        "question": "Rearrange words \n are/ How/ you?",
+        "question": "Rearrange the words:\nare/ How/ you?",
         "answers": [
           "How are you?",
           "How you are ?",
@@ -452,7 +452,7 @@
         "id": 37
       },
       {
-        "question": "Rearrange words \n her/ Are/ socks?/ these",
+        "question": "Rearrange the words:\nher/ Are/ socks?/ these",
         "answers": [
           "Are these socks her?",
           "these Are her socks?",
@@ -463,7 +463,7 @@
         "id": 38
       },
       {
-        "question": "Rearrange words \n a/ He’s/ pilot.",
+        "question": "Rearrange the words:\na/ He’s/ pilot.",
         "answers": [
           "a pilot. He’s",
           "He’s pilot. a",
@@ -474,7 +474,7 @@
         "id": 39
       },
       {
-        "question": "Rearrange words \n your/ are/ Where/ mum and dad?",
+        "question": "Rearrange the words:\nyour/ are/ Where/ mum and dad?",
         "answers": [
           "Where are your mum and dad?",
           "Where your mum and dad? are",
@@ -491,7 +491,7 @@
     "id": 9,
     "questions": [
       {
-        "question": "Rearrange words \n lunch/ haven’t/ got/ a/ box./ I",
+        "question": "Rearrange the words:\nlunch/ haven’t/ got/ a/ box./ I",
         "answers": [
           "I haven’t got a box. lunch",
           "haven’t I got a lunch box.",
@@ -502,7 +502,7 @@
         "id": 41
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "finger",
           "face",
@@ -513,7 +513,7 @@
         "id": 42
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "grapes",
           "chicken",
@@ -524,7 +524,7 @@
         "id": 43
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "pork",
           "bedroom",
@@ -535,7 +535,7 @@
         "id": 44
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "crocodile",
           "snake",
@@ -552,7 +552,7 @@
     "id": 10,
     "questions": [
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "fly",
           "meat",
@@ -563,7 +563,7 @@
         "id": 46
       },
       {
-        "question": "Rearrange words \n he/ Is/ pilot?/ a",
+        "question": "Rearrange the words:\nhe/ Is/ pilot?/ a",
         "answers": [
           "Is he a pilot?",
           "he Is a pilot?",
@@ -574,7 +574,7 @@
         "id": 47
       },
       {
-        "question": "Rearrange words \n a/ She’s/ nurse.",
+        "question": "Rearrange the words:\na/ She’s/ nurse.",
         "answers": [
           "She’s nurse. a",
           "a nurse. She’s",
@@ -585,7 +585,7 @@
         "id": 48
       },
       {
-        "question": "Rearrange words \n my/ This/ kite./ is",
+        "question": "Rearrange the words:\nmy/ This/ kite./ is",
         "answers": [
           "This is kite. my",
           "This is my kite.",
@@ -596,7 +596,7 @@
         "id": 49
       },
       {
-        "question": "Rearrange words \n don’t/ I/ grapes./ like",
+        "question": "Rearrange the words:\ndon’t/ I/ grapes./ like",
         "answers": [
           "I don’t like grapes.",
           "grapes. I don’t like",
@@ -674,7 +674,7 @@
     "id": 12,
     "questions": [
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "one",
           "three",
@@ -685,7 +685,7 @@
         "id": 56
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "apple",
           "banana",
@@ -696,7 +696,7 @@
         "id": 57
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "Amy",
           "Lisa",
@@ -707,7 +707,7 @@
         "id": 58
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "five",
           "pencil",
@@ -718,7 +718,7 @@
         "id": 59
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "Hello",
           "Bye",
@@ -735,7 +735,7 @@
     "id": 13,
     "questions": [
       {
-        "question": "Rearrange words \n her/ Are/ sandals?/ these",
+        "question": "Rearrange the words:\nher/ Are/ sandals?/ these",
         "answers": [
           "Are these her sandals?",
           "these Are her sandals?",
@@ -746,7 +746,7 @@
         "id": 61
       },
       {
-        "question": "Rearrange words \n aren’t./ No, / they",
+        "question": "Rearrange the words:\naren’t./ No, / they",
         "answers": [
           "they No, aren’t.",
           "No, aren’t. they",
@@ -757,7 +757,7 @@
         "id": 62
       },
       {
-        "question": "Rearrange words \n mom?/ Where/ your/ is",
+        "question": "Rearrange the words:\nmom?/ Where/ your/ is",
         "answers": [
           "Where your is mom?",
           "Where mom? is your",
@@ -768,7 +768,7 @@
         "id": 63
       },
       {
-        "question": "Rearrange words \n nurse?/ a/ Is/ she",
+        "question": "Rearrange the words:\nnurse?/ a/ Is/ she",
         "answers": [
           "she Is a nurse?",
           "Is she a nurse?",
@@ -779,7 +779,7 @@
         "id": 64
       },
       {
-        "question": "Rearrange words \n doctor/ father/ My/ a/ is",
+        "question": "Rearrange the words:\ndoctor/ father/ My/ a/ is",
         "answers": [
           "is My father a doctor",
           "My doctor is a father",
@@ -796,7 +796,7 @@
     "id": 14,
     "questions": [
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "snake",
           "parrot",
@@ -807,7 +807,7 @@
         "id": 66
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "Weekend",
           "Tuesday",
@@ -818,7 +818,7 @@
         "id": 67
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "one",
           "number",
@@ -829,7 +829,7 @@
         "id": 68
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "chicken",
           "lemon",
@@ -840,7 +840,7 @@
         "id": 69
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "doll",
           "kite",
@@ -857,7 +857,7 @@
     "id": 15,
     "questions": [
       {
-        "question": "Rearrange words \n name/ is/ What/ your/ mother’s/?",
+        "question": "Rearrange the words:\nname/ is/ What/ your/ mother’s/?",
         "answers": [
           "What is your mother’s name?",
           "What is your name mother’s?",
@@ -868,7 +868,7 @@
         "id": 71
       },
       {
-        "question": "Rearrange words \n How/ mother/ your/ is/ old/?",
+        "question": "Rearrange the words:\nHow/ mother/ your/ is/ old/?",
         "answers": [
           "How old is mother your?",
           "How your mother old is?",
@@ -879,7 +879,7 @@
         "id": 72
       },
       {
-        "question": "Rearrange words \n favourite/ your/ What/ is/ toy/?",
+        "question": "Rearrange the words:\nfavourite/ your/ What/ is/ toy/?",
         "answers": [
           "What is your favourite toy?",
           "What is your toy favourite?",
@@ -890,7 +890,7 @@
         "id": 73
       },
       {
-        "question": "Rearrange words \n Are/ books/ her/ there/ table/ the/ on/?",
+        "question": "Rearrange the words:\nAre/ books/ her/ there/ table/ the/ on/?",
         "answers": [
           "there Are her books on the table?",
           "Are her books there on the table?",
@@ -901,7 +901,7 @@
         "id": 74
       },
       {
-        "question": "Rearrange words \n Where/ pens/ are/ his/ ?",
+        "question": "Rearrange the words:\nWhere/ pens/ are/ his/ ?",
         "answers": [
           "Where are pens his?",
           "Where are his pens?",
@@ -918,7 +918,7 @@
     "id": 16,
     "questions": [
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "red",
           "peach",
@@ -929,7 +929,7 @@
         "id": 76
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "teacher",
           "nurse",
@@ -940,7 +940,7 @@
         "id": 77
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "beef",
           "pork",
@@ -951,7 +951,7 @@
         "id": 78
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "puppet",
           "papaya",
@@ -962,7 +962,7 @@
         "id": 79
       },
       {
-        "question": "Odd one out",
+        "question": "Odd one out. Pick the different word.",
         "answers": [
           "eight",
           "first",
@@ -979,7 +979,7 @@
     "id": 17,
     "questions": [
       {
-        "question": "Rearrange words \n have/ I/ an/ apple/ sandwiches/ and/ three/./",
+        "question": "Rearrange the words:\nhave/ I/ an/ apple/ sandwiches/ and/ three/./",
         "answers": [
           "I have three apple and an sandwiches.",
           "I have an apple and three sandwiches.",
@@ -990,7 +990,7 @@
         "id": 81
       },
       {
-        "question": "Rearrange words \n How/ grandmother/ is/ old/ your/ ?/",
+        "question": "Rearrange the words:\nHow/ grandmother/ is/ old/ your/ ?/",
         "answers": [
           "How old is your grandmother?",
           "How is your grandmother old?",
@@ -1001,7 +1001,7 @@
         "id": 82
       },
       {
-        "question": "Rearrange words \n comic/ are/ Where/ my/ books/ ?/",
+        "question": "Rearrange the words:\ncomic/ are/ Where/ my/ books/ ?/",
         "answers": [
           "Where are my books comic?",
           "Where my comic books are?",
@@ -1012,7 +1012,7 @@
         "id": 83
       },
       {
-        "question": "Rearrange words \n I/ fine,/ you/ thank/ am/./",
+        "question": "Rearrange the words:\nI/ fine,/ you/ thank/ am/./",
         "answers": [
           "thank you. I am fine,",
           "I am fine, thank you.",
@@ -1023,7 +1023,7 @@
         "id": 84
       },
       {
-        "question": "Rearrange words \n Are/ books/ her/ there/ table/ the/ on/?",
+        "question": "Rearrange the words:\nAre/ books/ her/ there/ table/ the/ on/?",
         "answers": [
           "Are there her books on the table?",
           "there Are her books on the table?",
@@ -1040,7 +1040,7 @@
     "id": 18,
     "questions": [
       {
-        "question": "Fill in the missing letter \n  scho…l",
+        "question": "Fill in the missing letter:\nscho…l",
         "answers": [
           "a",
           "e",
@@ -1051,7 +1051,7 @@
         "id": 86
       },
       {
-        "question": "Fill in the missing letter \n  rubb..r",
+        "question": "Fill in the missing letter:\nrubb..r",
         "answers": [
           "a",
           "e",
@@ -1062,7 +1062,7 @@
         "id": 87
       },
       {
-        "question": "Fill in the missing letter \n  m..sic room",
+        "question": "Fill in the missing letter:\nm..sic room",
         "answers": [
           "a",
           "e",
@@ -1073,7 +1073,7 @@
         "id": 88
       },
       {
-        "question": "Fill in the missing letter \n  cl..ss room",
+        "question": "Fill in the missing letter:\ncl..ss room",
         "answers": [
           "a",
           "e",
@@ -1084,7 +1084,7 @@
         "id": 89
       },
       {
-        "question": "Fill in the missing letter \n  b..g",
+        "question": "Fill in the missing letter:\nb..g",
         "answers": [
           "a",
           "e",
@@ -1101,7 +1101,7 @@
     "id": 19,
     "questions": [
       {
-        "question": "Fill in the missing letter \n  op..n",
+        "question": "Fill in the missing letter:\nop..n",
         "answers": [
           "a",
           "e",
@@ -1112,7 +1112,7 @@
         "id": 91
       },
       {
-        "question": "Rearrange words \n name/ your/ What/ is/ ?",
+        "question": "Rearrange the words:\nname/ your/ What/ is/ ?",
         "answers": [
           "What your name is?",
           "What is your name?",
@@ -1123,7 +1123,7 @@
         "id": 92
       },
       {
-        "question": "Rearrange words \n Lan / is / My / name/ .",
+        "question": "Rearrange the words:\nLan / is / My / name/ .",
         "answers": [
           "My name is Lan.",
           "My Lan is name.",
@@ -1134,7 +1134,7 @@
         "id": 93
       },
       {
-        "question": "Rearrange words \n are / you / How / old/ ?",
+        "question": "Rearrange the words:\nare / you / How / old/ ?",
         "answers": [
           "How old you are?",
           "How you are old?",
@@ -1145,7 +1145,7 @@
         "id": 94
       },
       {
-        "question": "Rearrange words \n am / I / eight / old / years/ .",
+        "question": "Rearrange the words:\nam / I / eight / old / years/ .",
         "answers": [
           "I am years old eight.",
           "I am eight old years.",
@@ -1162,7 +1162,7 @@
     "id": 20,
     "questions": [
       {
-        "question": "Rearrange words \n is / This / classroom /my/ .",
+        "question": "Rearrange the words:\nis / This / classroom /my/ .",
         "answers": [
           "This is my classroom.",
           "my classroom is This.",
@@ -1173,7 +1173,7 @@
         "id": 96
       },
       {
-        "question": "Rearrange words \n I / May / out / go/ ?",
+        "question": "Rearrange the words:\nI / May / out / go/ ?",
         "answers": [
           "I may go out?",
           "May go I out?",
@@ -1447,7 +1447,7 @@
           "Policeman is a he?"
         ],
         "correctAnswer": "Is he a policeman?",
-        "id": 110
+        "id": 246
       },
       {
         "question": "Rearrange words \n mom/ My / is / a nurse.",
@@ -2382,58 +2382,58 @@
     "id": 40,
     "questions": [
       {
-        "question": "Rearrange words \n cats/ have/ We/ three/ .",
+        "question": "Rearrange words \n playing/ are/ They/ football/ .",
         "answers": [
-          "We have three cats.",
-          "We three cats have.",
-          "Have we three cats.",
-          "Three cats we have."
+          "They are playing football.",
+          "They football are playing.",
+          "Playing they are football.",
+          "Football they are playing."
         ],
-        "correctAnswer": "We have three cats.",
+        "correctAnswer": "They are playing football.",
         "id": 196
       },
       {
         "question": "Odd one out",
         "answers": [
-          "red",
-          "blue",
-          "green",
-          "table"
+          "spring",
+          "summer",
+          "winter",
+          "Thursday"
         ],
-        "correctAnswer": "table",
+        "correctAnswer": "Thursday",
         "id": 197
       },
       {
-        "question": "What is your favourite food?",
+        "question": "What do you do after school?",
         "answers": [
-          "I like rice.",
+          "I play games.",
           "I'm fine.",
           "I'm nine.",
           "I have a cat."
         ],
-        "correctAnswer": "I like rice.",
+        "correctAnswer": "I play games.",
         "id": 198
       },
       {
-        "question": "There ___ two chairs in the room.",
+        "question": "There ___ a book on the desk.",
         "answers": [
           "is",
           "are",
           "am",
           "be"
         ],
-        "correctAnswer": "are",
+        "correctAnswer": "is",
         "id": 199
       },
       {
-        "question": "She ___ to school every day.",
+        "question": "My father ___ to work by car.",
         "answers": [
-          "walk",
-          "walks",
-          "walking",
-          "walked"
+          "go",
+          "goes",
+          "going",
+          "went"
         ],
-        "correctAnswer": "walks",
+        "correctAnswer": "goes",
         "id": 200
       }
     ],
@@ -2443,58 +2443,58 @@
     "id": 41,
     "questions": [
       {
-        "question": "Rearrange words \n morning/ get/ I/ up/ early/ .",
+        "question": "Rearrange words \n name/ is/ What/ your/ ?",
         "answers": [
-          "I get up early morning.",
-          "I early morning get up.",
-          "Early I get up morning.",
-          "I get up early in the morning."
+          "What is your name?",
+          "What your name is?",
+          "Is what your name?",
+          "Your name what is?"
         ],
-        "correctAnswer": "I get up early in the morning.",
+        "correctAnswer": "What is your name?",
         "id": 201
       },
       {
         "question": "Odd one out",
         "answers": [
-          "cat",
-          "dog",
-          "fish",
-          "chair"
+          "apple",
+          "mango",
+          "orange",
+          "carrot"
         ],
-        "correctAnswer": "chair",
+        "correctAnswer": "carrot",
         "id": 202
       },
       {
-        "question": "Can you ___ a song?",
+        "question": "Can you ___ a bike?",
         "answers": [
-          "sing",
-          "sings",
-          "singing",
-          "sang"
+          "ride",
+          "rides",
+          "riding",
+          "rode"
         ],
-        "correctAnswer": "sing",
+        "correctAnswer": "ride",
         "id": 203
       },
       {
-        "question": "He ___ lunch at school every day.",
+        "question": "I ___ breakfast at 7 every morning.",
         "answers": [
-          "have",
-          "has",
-          "having",
-          "had"
+          "eat",
+          "eats",
+          "eating",
+          "ate"
         ],
-        "correctAnswer": "has",
+        "correctAnswer": "eat",
         "id": 204
       },
       {
-        "question": "What time does he get up?",
+        "question": "Where does she live?",
         "answers": [
-          "He gets up at 6.",
+          "She lives in Hanoi.",
           "I'm fine.",
           "I'm nine.",
           "I have a cat."
         ],
-        "correctAnswer": "He gets up at 6.",
+        "correctAnswer": "She lives in Hanoi.",
         "id": 205
       }
     ],
