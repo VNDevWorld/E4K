@@ -1408,12 +1408,12 @@
       {
         "question": "Rearrange words \n is / my / ball. /red /This",
         "answers": [
-          "This is my ball read.",
-          "My read ball is this.",
-          "This is my read ball.",
-          "This is read my ball."
+          "This is my ball red.",
+          "My red ball is this.",
+          "This is my red ball.",
+          "This is red my ball."
         ],
-        "correctAnswer": "This is my read ball.",
+        "correctAnswer": "This is my red ball.",
         "id": 117
       },
       {
