@@ -525,8 +525,8 @@
     },
     {
       "question": "How many ___________ there in your school?",
-      "answers": ["is student", "are students", "student are", "do students"],
-      "correctAnswer": "student are",
+      "answers": ["is student", "are students", "students are", "do students"],
+      "correctAnswer": "students are",
       "id": 78
     },
     {
