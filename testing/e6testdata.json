@@ -2439,4 +2439,616 @@
   ],
   "status": 0
 }
+,
+  {
+    "id": 41,
+    "status": 0,
+    "questions": [
+      {
+        "question": "Go straight ___",
+        "answers": [
+          "ahead",
+          "front",
+          "back",
+          "behind"
+        ],
+        "correctAnswer": "ahead",
+        "id": 201
+      },
+      {
+        "question": "How about ___ taking some photos?",
+        "answers": [
+          "taking",
+          "take",
+          "takes",
+          "to take"
+        ],
+        "correctAnswer": "taking",
+        "id": 202
+      },
+      {
+        "question": "He goes to work ___ bus.",
+        "answers": [
+          "by",
+          "on",
+          "in",
+          "with"
+        ],
+        "correctAnswer": "by",
+        "id": 203
+      },
+      {
+        "question": "I ___ television every evening.",
+        "answers": [
+          "watch",
+          "watches",
+          "watching",
+          "am watching"
+        ],
+        "correctAnswer": "watch",
+        "id": 204
+      },
+      {
+        "question": "How ___ apples are there?",
+        "answers": [
+          "many",
+          "much",
+          "often",
+          "long"
+        ],
+        "correctAnswer": "many",
+        "id": 205
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "status": 0,
+    "questions": [
+      {
+        "question": "Excuse me, could you show me the ___ to the post office?",
+        "answers": [
+          "way",
+          "road",
+          "street",
+          "path"
+        ],
+        "correctAnswer": "way",
+        "id": 206
+      },
+      {
+        "question": "I'm hungry. I'd like some ___",
+        "answers": [
+          "bread",
+          "water",
+          "juice",
+          "milk"
+        ],
+        "correctAnswer": "bread",
+        "id": 207
+      },
+      {
+        "question": "I'm thirsty. I'd like some ___",
+        "answers": [
+          "water",
+          "bread",
+          "meat",
+          "rice"
+        ],
+        "correctAnswer": "water",
+        "id": 208
+      },
+      {
+        "question": "___ you speak English?",
+        "answers": [
+          "Can",
+          "Are",
+          "Is",
+          "Does"
+        ],
+        "correctAnswer": "Can",
+        "id": 209
+      },
+      {
+        "question": "I always go to bed ___ 10 p.m.",
+        "answers": [
+          "at",
+          "in",
+          "on",
+          "for"
+        ],
+        "correctAnswer": "at",
+        "id": 210
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "status": 0,
+    "questions": [
+      {
+        "question": "He is a ___ . He works in a hospital.",
+        "answers": [
+          "doctor",
+          "teacher",
+          "farmer",
+          "worker"
+        ],
+        "correctAnswer": "doctor",
+        "id": 211
+      },
+      {
+        "question": "She ___ English every day.",
+        "answers": [
+          "studies",
+          "study",
+          "studying",
+          "is studying"
+        ],
+        "correctAnswer": "studies",
+        "id": 212
+      },
+      {
+        "question": "She has ___ hair.",
+        "answers": [
+          "long black",
+          "black long",
+          "a long black",
+          "long and black"
+        ],
+        "correctAnswer": "long black",
+        "id": 213
+      },
+      {
+        "question": "How ___ milk do you want?",
+        "answers": [
+          "much",
+          "many",
+          "often",
+          "long"
+        ],
+        "correctAnswer": "much",
+        "id": 214
+      },
+      {
+        "question": "My father is ___ TV in the living room now.",
+        "answers": [
+          "watching",
+          "watches",
+          "watch",
+          "to watch"
+        ],
+        "correctAnswer": "watching",
+        "id": 215
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "status": 0,
+    "questions": [
+      {
+        "question": "There is ___ milk in the fridge.",
+        "answers": [
+          "some",
+          "any",
+          "a",
+          "an"
+        ],
+        "correctAnswer": "some",
+        "id": 216
+      },
+      {
+        "question": "Does she ___ a brother? - Yes, she does.",
+        "answers": [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        "correctAnswer": "have",
+        "id": 217
+      },
+      {
+        "question": "What are you doing? - I ___ a book.",
+        "answers": [
+          "am reading",
+          "read",
+          "reads",
+          "reading"
+        ],
+        "correctAnswer": "am reading",
+        "id": 218
+      },
+      {
+        "question": "My birthday is ___ May.",
+        "answers": [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        "correctAnswer": "in",
+        "id": 219
+      },
+      {
+        "question": "Turn left ___ the traffic lights.",
+        "answers": [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        "correctAnswer": "at",
+        "id": 220
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "status": 0,
+    "questions": [
+      {
+        "question": "What's your ___ subject? - I like Math.",
+        "answers": [
+          "favorite",
+          "best",
+          "good",
+          "better"
+        ],
+        "correctAnswer": "favorite",
+        "id": 221
+      },
+      {
+        "question": "Are there ___ pictures on the wall?",
+        "answers": [
+          "any",
+          "some",
+          "a",
+          "an"
+        ],
+        "correctAnswer": "any",
+        "id": 222
+      },
+      {
+        "question": "We have English ___ Monday and Friday.",
+        "answers": [
+          "on",
+          "in",
+          "at",
+          "for"
+        ],
+        "correctAnswer": "on",
+        "id": 223
+      },
+      {
+        "question": "Fansipan is the ___ mountain in Vietnam.",
+        "answers": [
+          "highest",
+          "higher",
+          "high",
+          "most high"
+        ],
+        "correctAnswer": "highest",
+        "id": 224
+      },
+      {
+        "question": "The cat is ___ the table and the chair.",
+        "answers": [
+          "between",
+          "in",
+          "on",
+          "under"
+        ],
+        "correctAnswer": "between",
+        "id": 225
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "status": 0,
+    "questions": [
+      {
+        "question": "She is walking ___ the street.",
+        "answers": [
+          "across",
+          "through",
+          "in",
+          "on"
+        ],
+        "correctAnswer": "across",
+        "id": 226
+      },
+      {
+        "question": "Look! The bus ___",
+        "answers": [
+          "is coming",
+          "comes",
+          "come",
+          "coming"
+        ],
+        "correctAnswer": "is coming",
+        "id": 227
+      },
+      {
+        "question": "Where ___ you from?",
+        "answers": [
+          "are",
+          "do",
+          "is",
+          "does"
+        ],
+        "correctAnswer": "are",
+        "id": 228
+      },
+      {
+        "question": "You ___ do your homework before going out.",
+        "answers": [
+          "must",
+          "mustn't",
+          "can",
+          "shouldn't"
+        ],
+        "correctAnswer": "must",
+        "id": 229
+      },
+      {
+        "question": "What's the weather ___ in Hanoi?",
+        "answers": [
+          "like",
+          "likes",
+          "liking",
+          "to like"
+        ],
+        "correctAnswer": "like",
+        "id": 230
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "status": 0,
+    "questions": [
+      {
+        "question": "Yes, I ___",
+        "answers": [
+          "can",
+          "do",
+          "am",
+          "have"
+        ],
+        "correctAnswer": "can",
+        "id": 231
+      },
+      {
+        "question": "My house is ___ than your house.",
+        "answers": [
+          "bigger",
+          "big",
+          "biggest",
+          "more big"
+        ],
+        "correctAnswer": "bigger",
+        "id": 232
+      },
+      {
+        "question": "They are ___ . They aren't short.",
+        "answers": [
+          "tall",
+          "short",
+          "fat",
+          "thin"
+        ],
+        "correctAnswer": "tall",
+        "id": 233
+      },
+      {
+        "question": "There is a garden ___ of my house.",
+        "answers": [
+          "in front",
+          "behind",
+          "next",
+          "opposite"
+        ],
+        "correctAnswer": "in front",
+        "id": 234
+      },
+      {
+        "question": "I often ___ my bike to school.",
+        "answers": [
+          "ride",
+          "drive",
+          "fly",
+          "sail"
+        ],
+        "correctAnswer": "ride",
+        "id": 235
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "status": 0,
+    "questions": [
+      {
+        "question": "This river is ___ than that one.",
+        "answers": [
+          "longer",
+          "long",
+          "longest",
+          "more long"
+        ],
+        "correctAnswer": "longer",
+        "id": 236
+      },
+      {
+        "question": "Let's ___ to the zoo.",
+        "answers": [
+          "go",
+          "goes",
+          "going",
+          "to go"
+        ],
+        "correctAnswer": "go",
+        "id": 237
+      },
+      {
+        "question": "This is the ___ building in the city.",
+        "answers": [
+          "tallest",
+          "tall",
+          "taller",
+          "most tall"
+        ],
+        "correctAnswer": "tallest",
+        "id": 238
+      },
+      {
+        "question": "You ___ cheat in exams.",
+        "answers": [
+          "mustn't",
+          "must",
+          "should",
+          "can"
+        ],
+        "correctAnswer": "mustn't",
+        "id": 239
+      },
+      {
+        "question": "My brother ___ soccer very well.",
+        "answers": [
+          "plays",
+          "play",
+          "is playing",
+          "playing"
+        ],
+        "correctAnswer": "plays",
+        "id": 240
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "status": 0,
+    "questions": [
+      {
+        "question": "___ you like to drink some tea?",
+        "answers": [
+          "Would",
+          "Do",
+          "Are",
+          "Can"
+        ],
+        "correctAnswer": "Would",
+        "id": 241
+      },
+      {
+        "question": "Can you pass me the pen, ___?",
+        "answers": [
+          "please",
+          "thanks",
+          "sorry",
+          "excuse me"
+        ],
+        "correctAnswer": "please",
+        "id": 242
+      },
+      {
+        "question": "___ don't we go to the cinema?",
+        "answers": [
+          "Why",
+          "What",
+          "How",
+          "Where"
+        ],
+        "correctAnswer": "Why",
+        "id": 243
+      },
+      {
+        "question": "You ___ eat more vegetables.",
+        "answers": [
+          "should",
+          "shouldn't",
+          "mustn't",
+          "cannot"
+        ],
+        "correctAnswer": "should",
+        "id": 244
+      },
+      {
+        "question": "Where ___ he live?",
+        "answers": [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        "correctAnswer": "does",
+        "id": 245
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "status": 0,
+    "questions": [
+      {
+        "question": "We ___ go to school on Sundays.",
+        "answers": [
+          "don't",
+          "doesn't",
+          "aren't",
+          "isn't"
+        ],
+        "correctAnswer": "don't",
+        "id": 246
+      },
+      {
+        "question": "___ time does your class start?",
+        "answers": [
+          "What",
+          "When",
+          "Where",
+          "How"
+        ],
+        "correctAnswer": "What",
+        "id": 247
+      },
+      {
+        "question": "She ___ short hair. She has long hair.",
+        "answers": [
+          "doesn't have",
+          "hasn't",
+          "don't have",
+          "haven't"
+        ],
+        "correctAnswer": "doesn't have",
+        "id": 248
+      },
+      {
+        "question": "He is ___ . He likes helping other people.",
+        "answers": [
+          "kind",
+          "funny",
+          "clever",
+          "shy"
+        ],
+        "correctAnswer": "kind",
+        "id": 249
+      },
+      {
+        "question": "It is ___ today. Let's go swimming.",
+        "answers": [
+          "hot",
+          "cold",
+          "raining",
+          "snowing"
+        ],
+        "correctAnswer": "hot",
+        "id": 250
+      }
+    ]
+  }
+
 ]
