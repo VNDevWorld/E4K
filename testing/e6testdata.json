@@ -2438,8 +2438,7 @@
     }
   ],
   "status": 0
-}
-,
+  },
   {
     "id": 41,
     "status": 0,
@@ -2456,7 +2455,7 @@
         "id": 201
       },
       {
-        "question": "How about ___ taking some photos?",
+        "question": "How about ___ some photos?",
         "answers": [
           "taking",
           "take",
@@ -2506,12 +2505,12 @@
     "status": 0,
     "questions": [
       {
-        "question": "Excuse me, could you show me the ___ to the post office?",
+        "question": "Excuse me, I'm lost. Could you show me the ___ to the post office?",
         "answers": [
           "way",
-          "road",
-          "street",
-          "path"
+          "address",
+          "location",
+          "price"
         ],
         "correctAnswer": "way",
         "id": 206
@@ -2522,7 +2521,7 @@
           "bread",
           "water",
           "juice",
-          "milk"
+          "tea"
         ],
         "correctAnswer": "bread",
         "id": 207
@@ -2589,12 +2588,12 @@
         "id": 212
       },
       {
-        "question": "She has ___ hair.",
+        "question": "Her hair reaches her waist and is the darkest color. She has ___ hair.",
         "answers": [
           "long black",
-          "black long",
-          "a long black",
-          "long and black"
+          "short black",
+          "long blonde",
+          "short blonde"
         ],
         "correctAnswer": "long black",
         "id": 213
@@ -2689,18 +2688,18 @@
     "status": 0,
     "questions": [
       {
-        "question": "What's your ___ subject? - I like Math.",
+        "question": "Which subject do you like best? - My ___ subject is Math.",
         "answers": [
           "favorite",
-          "best",
-          "good",
-          "better"
+          "difficult",
+          "boring",
+          "least favorite"
         ],
         "correctAnswer": "favorite",
         "id": 221
       },
       {
-        "question": "Are there ___ pictures on the wall?",
+        "question": "There aren't ___ pictures on the wall.",
         "answers": [
           "any",
           "some",
@@ -2750,7 +2749,7 @@
     "status": 0,
     "questions": [
       {
-        "question": "She is walking ___ the street.",
+        "question": "She is walking ___ the street to reach the other side.",
         "answers": [
           "across",
           "through",
@@ -2783,7 +2782,7 @@
         "id": 228
       },
       {
-        "question": "You ___ do your homework before going out.",
+        "question": "Your parents require you to finish your homework before going out. You ___ do it before you leave.",
         "answers": [
           "must",
           "mustn't",
@@ -2811,7 +2810,7 @@
     "status": 0,
     "questions": [
       {
-        "question": "Yes, I ___",
+        "question": "Can you swim? - Yes, I ___",
         "answers": [
           "can",
           "do",
@@ -2849,7 +2848,7 @@
           "in front",
           "behind",
           "next",
-          "opposite"
+          "near"
         ],
         "correctAnswer": "in front",
         "id": 234
@@ -2905,11 +2904,11 @@
         "id": 238
       },
       {
-        "question": "You ___ cheat in exams.",
+        "question": "School rules prohibit cheating. You ___ cheat in exams.",
         "answers": [
           "mustn't",
           "must",
-          "should",
+          "have to",
           "can"
         ],
         "correctAnswer": "mustn't",
@@ -2933,10 +2932,10 @@
     "status": 0,
     "questions": [
       {
-        "question": "___ you like to drink some tea?",
+        "question": "___ you like some tea? - Yes, please.",
         "answers": [
           "Would",
-          "Do",
+          "Does",
           "Are",
           "Can"
         ],
@@ -3019,7 +3018,7 @@
         "question": "She ___ short hair. She has long hair.",
         "answers": [
           "doesn't have",
-          "hasn't",
+          "isn't having",
           "don't have",
           "haven't"
         ],

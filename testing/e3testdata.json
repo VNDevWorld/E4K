@@ -7162,7 +7162,7 @@
         "id": 587
       },
       {
-        "question": "She _____ a new dress today.",
+        "question": "She _____ her favorite dress every Sunday.",
         "answers": [
           "wears",
           "wear",
@@ -7318,8 +7318,7 @@
       }
     ],
     "status": 0
-  }
-,
+  },
   {
     "id": 121,
     "status": 0,
@@ -7358,11 +7357,11 @@
         "id": 603
       },
       {
-        "question": "Be _____, please. (trật tự)",
+        "question": "The baby is sleeping. Be _____, please.",
         "answers": [
           "quiet",
           "noisy",
-          "good",
+          "loud",
           "bad"
         ],
         "correctAnswer": "quiet",
@@ -7408,7 +7407,7 @@
         "id": 607
       },
       {
-        "question": "Where is the cat? - It's _____ the table.",
+        "question": "The cat is hiding between the table legs. It is _____ the table.",
         "answers": [
           "in",
           "on",
@@ -7419,7 +7418,7 @@
         "id": 608
       },
       {
-        "question": "Close the _____",
+        "question": "Close this _____, please.",
         "answers": [
           "door",
           "doors",
@@ -7430,7 +7429,7 @@
         "id": 609
       },
       {
-        "question": "What's this? - It's a _____ (bút chì)",
+        "question": "It has graphite and is used for writing. It's a _____",
         "answers": [
           "pencil",
           "pen",
@@ -7447,7 +7446,7 @@
     "status": 0,
     "questions": [
       {
-        "question": "What do you do at break time? - I play _____ (bóng đá)",
+        "question": "I kick a ball into a goal when I play _____",
         "answers": [
           "football",
           "chess",
@@ -7458,7 +7457,7 @@
         "id": 611
       },
       {
-        "question": "My favourite color is _____",
+        "question": "My favorite color is _____",
         "answers": [
           "pink",
           "apple",
@@ -7508,10 +7507,10 @@
     "status": 0,
     "questions": [
       {
-        "question": "No, you _____",
+        "question": "May I go out? - No, you _____",
         "answers": [
           "can",
-          "cannot",
+          "aren't",
           "can't",
           "don't"
         ],
@@ -7569,7 +7568,7 @@
     "status": 0,
     "questions": [
       {
-        "question": "What is this? It's a _____ (book)",
+        "question": "You can read it. It's a _____",
         "answers": [
           "pen",
           "book",
@@ -7602,7 +7601,7 @@
         "id": 623
       },
       {
-        "question": "What color are they? - They are _____ (đen)",
+        "question": "What color is coal? - It is _____",
         "answers": [
           "black",
           "white",
@@ -7630,7 +7629,7 @@
     "status": 0,
     "questions": [
       {
-        "question": "What color is the apple?",
+        "question": "What color means 'stop' at traffic lights?",
         "answers": [
           "Red",
           "Blue",
@@ -7674,7 +7673,7 @@
         "id": 629
       },
       {
-        "question": "Do you like _____? - Yes, I do. (cầu lông)",
+        "question": "Which sport uses a shuttlecock? - _____",
         "answers": [
           "badminton",
           "football",
@@ -7691,7 +7690,7 @@
     "status": 0,
     "questions": [
       {
-        "question": "Let's go to the _____ (thư viện)",
+        "question": "Let's go to the _____ to borrow a book.",
         "answers": [
           "library",
           "school",
@@ -7702,10 +7701,10 @@
         "id": 631
       },
       {
-        "question": "Open your _____",
+        "question": "Open your _____ to page ten.",
         "answers": [
           "book",
-          "books",
+          "booking",
           "a book",
           "the books"
         ],
@@ -7752,7 +7751,7 @@
     "status": 0,
     "questions": [
       {
-        "question": "Is that your _____? - Yes, it is. (school)",
+        "question": "Is that your _____? - Yes, it is.",
         "answers": [
           "school",
           "schools",
@@ -7785,18 +7784,18 @@
         "id": 638
       },
       {
-        "question": "What are they? - They are _____ (cục tẩy)",
+        "question": "We use them to remove pencil marks. They are _____",
         "answers": [
           "erasers",
           "eraser",
           "an eraser",
-          "the erasers"
+          "pencils"
         ],
         "correctAnswer": "erasers",
         "id": 639
       },
       {
-        "question": "Let's play _____ (bóng bàn)",
+        "question": "Let's play _____ with paddles and a small ball on a table.",
         "answers": [
           "table tennis",
           "football",
@@ -7813,7 +7812,7 @@
     "status": 0,
     "questions": [
       {
-        "question": "My _____ is a doctor. (father)",
+        "question": "My _____ is a doctor. He is my mother's husband.",
         "answers": [
           "father",
           "sister",
@@ -7835,7 +7834,7 @@
         "id": 642
       },
       {
-        "question": "This is my _____ (friend)",
+        "question": "This is Lan. She is my _____",
         "answers": [
           "friend",
           "friends",
@@ -7846,7 +7845,7 @@
         "id": 643
       },
       {
-        "question": "Yes, you _____",
+        "question": "May I open the window? - Yes, you _____",
         "answers": [
           "can",
           "cannot",
@@ -7857,7 +7856,7 @@
         "id": 644
       },
       {
-        "question": "Touch your _____ (mũi)",
+        "question": "Touch the part of your face that you use to smell: your _____",
         "answers": [
           "nose",
           "mouth",
@@ -7896,7 +7895,7 @@
         "id": 647
       },
       {
-        "question": "What color is it? - It's _____ (trắng)",
+        "question": "What color is snow? - It is _____",
         "answers": [
           "white",
           "black",
@@ -7907,7 +7906,7 @@
         "id": 648
       },
       {
-        "question": "The _____ is large. (sân trường)",
+        "question": "The children play outside in the _____",
         "answers": [
           "playground",
           "library",
@@ -7918,7 +7917,7 @@
         "id": 649
       },
       {
-        "question": "Is this your _____? - No, it isn't. (classroom)",
+        "question": "Is this your _____? - No, it isn't.",
         "answers": [
           "classroom",
           "classrooms",
