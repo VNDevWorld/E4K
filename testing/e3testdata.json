@@ -7013,5 +7013,921 @@
       }
     ],
     "status": 0
+  },
+  {
+    "id": 116,
+    "questions": [
+      {
+        "question": "What do you do in the morning?",
+        "answers": [
+          "I brush my teeth.",
+          "It is morning.",
+          "I like apples.",
+          "She is my sister."
+        ],
+        "correctAnswer": "I brush my teeth.",
+        "id": 576
+      },
+      {
+        "question": "Where is the ball?",
+        "answers": [
+          "It is under the table.",
+          "It is red.",
+          "I have a ball.",
+          "They are balls."
+        ],
+        "correctAnswer": "It is under the table.",
+        "id": 577
+      },
+      {
+        "question": "I _____ English on Monday.",
+        "answers": [
+          "have",
+          "has",
+          "am",
+          "is"
+        ],
+        "correctAnswer": "have",
+        "id": 578
+      },
+      {
+        "question": "Odd one out.",
+        "answers": [
+          "banana",
+          "orange",
+          "mango",
+          "chair"
+        ],
+        "correctAnswer": "chair",
+        "id": 579
+      },
+      {
+        "question": "Reorder: is / This / my / pencil / .",
+        "answers": [
+          "This is my pencil.",
+          "This my is pencil.",
+          "Is this my pencil.",
+          "My pencil this is."
+        ],
+        "correctAnswer": "This is my pencil.",
+        "id": 580
+      }
+    ],
+    "status": 0
+  },
+  {
+    "id": 117,
+    "questions": [
+      {
+        "question": "What can you see in the sky?",
+        "answers": [
+          "I can see the sun.",
+          "I can swim.",
+          "It is on the desk.",
+          "She likes the sky."
+        ],
+        "correctAnswer": "I can see the sun.",
+        "id": 581
+      },
+      {
+        "question": "How many fingers do you have?",
+        "answers": [
+          "I have ten fingers.",
+          "I am ten.",
+          "It is ten o'clock.",
+          "There are ten books."
+        ],
+        "correctAnswer": "I have ten fingers.",
+        "id": 582
+      },
+      {
+        "question": "My brother _____ football after school.",
+        "answers": [
+          "plays",
+          "play",
+          "playing",
+          "played"
+        ],
+        "correctAnswer": "plays",
+        "id": 583
+      },
+      {
+        "question": "Choose the odd one out.",
+        "answers": [
+          "red",
+          "blue",
+          "green",
+          "desk"
+        ],
+        "correctAnswer": "desk",
+        "id": 584
+      },
+      {
+        "question": "Reorder: are / They / my / friends / .",
+        "answers": [
+          "They are my friends.",
+          "They my are friends.",
+          "Are they my friends.",
+          "My friends they are."
+        ],
+        "correctAnswer": "They are my friends.",
+        "id": 585
+      }
+    ],
+    "status": 0
+  },
+  {
+    "id": 118,
+    "questions": [
+      {
+        "question": "What do you drink when you are thirsty?",
+        "answers": [
+          "I drink water.",
+          "I eat rice.",
+          "I go to school.",
+          "It is blue."
+        ],
+        "correctAnswer": "I drink water.",
+        "id": 586
+      },
+      {
+        "question": "Where do you sleep?",
+        "answers": [
+          "I sleep in my bedroom.",
+          "I like my bed.",
+          "It is night.",
+          "My house is big."
+        ],
+        "correctAnswer": "I sleep in my bedroom.",
+        "id": 587
+      },
+      {
+        "question": "She _____ a new dress today.",
+        "answers": [
+          "wears",
+          "wear",
+          "wearing",
+          "wore"
+        ],
+        "correctAnswer": "wears",
+        "id": 588
+      },
+      {
+        "question": "Choose the odd one out.",
+        "answers": [
+          "doctor",
+          "teacher",
+          "pilot",
+          "apple"
+        ],
+        "correctAnswer": "apple",
+        "id": 589
+      },
+      {
+        "question": "Reorder: like / I / to / sing / .",
+        "answers": [
+          "I like to sing.",
+          "I sing to like.",
+          "Like I to sing.",
+          "To sing I like."
+        ],
+        "correctAnswer": "I like to sing.",
+        "id": 590
+      }
+    ],
+    "status": 0
+  },
+  {
+    "id": 119,
+    "questions": [
+      {
+        "question": "What do you use to write?",
+        "answers": [
+          "I use a pen.",
+          "I read a book.",
+          "It is on the chair.",
+          "She has a bag."
+        ],
+        "correctAnswer": "I use a pen.",
+        "id": 591
+      },
+      {
+        "question": "How is the weather today?",
+        "answers": [
+          "It is sunny.",
+          "I am seven.",
+          "It is a kite.",
+          "They are friends."
+        ],
+        "correctAnswer": "It is sunny.",
+        "id": 592
+      },
+      {
+        "question": "We _____ cartoons on Sunday.",
+        "answers": [
+          "watch",
+          "watches",
+          "watching",
+          "watched"
+        ],
+        "correctAnswer": "watch",
+        "id": 593
+      },
+      {
+        "question": "Choose the odd one out.",
+        "answers": [
+          "kitchen",
+          "bedroom",
+          "bathroom",
+          "pencil"
+        ],
+        "correctAnswer": "pencil",
+        "id": 594
+      },
+      {
+        "question": "Reorder: has / She / a / doll / .",
+        "answers": [
+          "She has a doll.",
+          "She a has doll.",
+          "Has she a doll.",
+          "A doll she has."
+        ],
+        "correctAnswer": "She has a doll.",
+        "id": 595
+      }
+    ],
+    "status": 0
+  },
+  {
+    "id": 120,
+    "questions": [
+      {
+        "question": "What do you do after school?",
+        "answers": [
+          "I play with my friends.",
+          "It is my school.",
+          "I am in class.",
+          "She is a teacher."
+        ],
+        "correctAnswer": "I play with my friends.",
+        "id": 596
+      },
+      {
+        "question": "What colour is a banana?",
+        "answers": [
+          "It is yellow.",
+          "It is a fruit.",
+          "I like bananas.",
+          "They are sweet."
+        ],
+        "correctAnswer": "It is yellow.",
+        "id": 597
+      },
+      {
+        "question": "They _____ in the garden now.",
+        "answers": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "correctAnswer": "are",
+        "id": 598
+      },
+      {
+        "question": "Choose the odd one out.",
+        "answers": [
+          "shirt",
+          "skirt",
+          "shorts",
+          "bread"
+        ],
+        "correctAnswer": "bread",
+        "id": 599
+      },
+      {
+        "question": "Reorder: can / I / ride / a / bike / .",
+        "answers": [
+          "I can ride a bike.",
+          "I ride can a bike.",
+          "Can I ride a bike.",
+          "A bike I can ride."
+        ],
+        "correctAnswer": "I can ride a bike.",
+        "id": 600
+      }
+    ],
+    "status": 0
+  },
+  {
+    "id": 121,
+    "status": 0,
+    "questions": [
+      {
+        "question": "_____ down, please.",
+        "answers": [
+          "Sit",
+          "Stand",
+          "Come",
+          "Go"
+        ],
+        "correctAnswer": "Sit",
+        "id": 601
+      },
+      {
+        "question": "May I come _____?",
+        "answers": [
+          "out",
+          "in",
+          "up",
+          "down"
+        ],
+        "correctAnswer": "in",
+        "id": 602
+      },
+      {
+        "question": "I _____ an apple every day.",
+        "answers": [
+          "eat",
+          "eats",
+          "eating",
+          "to eat"
+        ],
+        "correctAnswer": "eat",
+        "id": 603
+      },
+      {
+        "question": "The baby is sleeping. Be _____, please.",
+        "answers": [
+          "quiet",
+          "noisy",
+          "loud",
+          "bad"
+        ],
+        "correctAnswer": "quiet",
+        "id": 604
+      },
+      {
+        "question": "What's _____ name? - His name is Nam.",
+        "answers": [
+          "her",
+          "his",
+          "my",
+          "your"
+        ],
+        "correctAnswer": "his",
+        "id": 605
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "status": 0,
+    "questions": [
+      {
+        "question": "May I ask a question? - Yes, you _____",
+        "answers": [
+          "can",
+          "can't",
+          "do",
+          "don't"
+        ],
+        "correctAnswer": "can",
+        "id": 606
+      },
+      {
+        "question": "I am _____ years old.",
+        "answers": [
+          "eight",
+          "eightth",
+          "eighth",
+          "eighty"
+        ],
+        "correctAnswer": "eight",
+        "id": 607
+      },
+      {
+        "question": "The cat is hiding between the table legs. It is _____ the table.",
+        "answers": [
+          "in",
+          "on",
+          "under",
+          "next to"
+        ],
+        "correctAnswer": "under",
+        "id": 608
+      },
+      {
+        "question": "Close this _____, please.",
+        "answers": [
+          "door",
+          "doors",
+          "a door",
+          "the doors"
+        ],
+        "correctAnswer": "door",
+        "id": 609
+      },
+      {
+        "question": "It has graphite and is used for writing. It's a _____",
+        "answers": [
+          "pencil",
+          "pen",
+          "ruler",
+          "eraser"
+        ],
+        "correctAnswer": "pencil",
+        "id": 610
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "status": 0,
+    "questions": [
+      {
+        "question": "I kick a ball into a goal when I play _____",
+        "answers": [
+          "football",
+          "chess",
+          "badminton",
+          "table tennis"
+        ],
+        "correctAnswer": "football",
+        "id": 611
+      },
+      {
+        "question": "My favorite color is _____",
+        "answers": [
+          "pink",
+          "apple",
+          "cat",
+          "run"
+        ],
+        "correctAnswer": "pink",
+        "id": 612
+      },
+      {
+        "question": "_____ is my book.",
+        "answers": [
+          "This",
+          "These",
+          "Those",
+          "They"
+        ],
+        "correctAnswer": "This",
+        "id": 613
+      },
+      {
+        "question": "_____ your name?",
+        "answers": [
+          "What",
+          "What's",
+          "How",
+          "Who"
+        ],
+        "correctAnswer": "What's",
+        "id": 614
+      },
+      {
+        "question": "Stand _____, please.",
+        "answers": [
+          "up",
+          "down",
+          "in",
+          "on"
+        ],
+        "correctAnswer": "up",
+        "id": 615
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "status": 0,
+    "questions": [
+      {
+        "question": "May I go out? - No, you _____",
+        "answers": [
+          "can",
+          "aren't",
+          "can't",
+          "don't"
+        ],
+        "correctAnswer": "can't",
+        "id": 616
+      },
+      {
+        "question": "_____ is that? - That is my teacher.",
+        "answers": [
+          "Who",
+          "What",
+          "How",
+          "Where"
+        ],
+        "correctAnswer": "Who",
+        "id": 617
+      },
+      {
+        "question": "She _____ a new doll.",
+        "answers": [
+          "have",
+          "has",
+          "having",
+          "to have"
+        ],
+        "correctAnswer": "has",
+        "id": 618
+      },
+      {
+        "question": "They are _____ in the garden.",
+        "answers": [
+          "play",
+          "plays",
+          "playing",
+          "to play"
+        ],
+        "correctAnswer": "playing",
+        "id": 619
+      },
+      {
+        "question": "How do you spell your name? - _____",
+        "answers": [
+          "L-I-N-H",
+          "Linh",
+          "I am Linh",
+          "My name is Linh"
+        ],
+        "correctAnswer": "L-I-N-H",
+        "id": 620
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "status": 0,
+    "questions": [
+      {
+        "question": "You can read it. It's a _____",
+        "answers": [
+          "pen",
+          "book",
+          "ruler",
+          "eraser"
+        ],
+        "correctAnswer": "book",
+        "id": 621
+      },
+      {
+        "question": "_____ you like apples?",
+        "answers": [
+          "Do",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "correctAnswer": "Do",
+        "id": 622
+      },
+      {
+        "question": "I have two _____",
+        "answers": [
+          "eye",
+          "eyes",
+          "an eye",
+          "the eyes"
+        ],
+        "correctAnswer": "eyes",
+        "id": 623
+      },
+      {
+        "question": "What color is coal? - It is _____",
+        "answers": [
+          "black",
+          "white",
+          "red",
+          "blue"
+        ],
+        "correctAnswer": "black",
+        "id": 624
+      },
+      {
+        "question": "Don't _____",
+        "answers": [
+          "talk",
+          "talks",
+          "talking",
+          "to talk"
+        ],
+        "correctAnswer": "talk",
+        "id": 625
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "status": 0,
+    "questions": [
+      {
+        "question": "What color means 'stop' at traffic lights?",
+        "answers": [
+          "Red",
+          "Blue",
+          "Yellow",
+          "Green"
+        ],
+        "correctAnswer": "Red",
+        "id": 626
+      },
+      {
+        "question": "Do you like chess? - No, I _____",
+        "answers": [
+          "don't",
+          "do",
+          "am not",
+          "am"
+        ],
+        "correctAnswer": "don't",
+        "id": 627
+      },
+      {
+        "question": "_____ are my pens.",
+        "answers": [
+          "These",
+          "This",
+          "That",
+          "It"
+        ],
+        "correctAnswer": "These",
+        "id": 628
+      },
+      {
+        "question": "What's _____ name? - Her name is Hoa.",
+        "answers": [
+          "her",
+          "his",
+          "my",
+          "your"
+        ],
+        "correctAnswer": "her",
+        "id": 629
+      },
+      {
+        "question": "Which sport uses a shuttlecock? - _____",
+        "answers": [
+          "badminton",
+          "football",
+          "chess",
+          "table tennis"
+        ],
+        "correctAnswer": "badminton",
+        "id": 630
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "status": 0,
+    "questions": [
+      {
+        "question": "Let's go to the _____ to borrow a book.",
+        "answers": [
+          "library",
+          "school",
+          "classroom",
+          "playground"
+        ],
+        "correctAnswer": "library",
+        "id": 631
+      },
+      {
+        "question": "Open your _____ to page ten.",
+        "answers": [
+          "book",
+          "booking",
+          "a book",
+          "the books"
+        ],
+        "correctAnswer": "book",
+        "id": 632
+      },
+      {
+        "question": "Is this your pen? - Yes, _____",
+        "answers": [
+          "it is",
+          "it isn't",
+          "they are",
+          "I am"
+        ],
+        "correctAnswer": "it is",
+        "id": 633
+      },
+      {
+        "question": "What are these? - _____ are my books.",
+        "answers": [
+          "They",
+          "This",
+          "That",
+          "It"
+        ],
+        "correctAnswer": "They",
+        "id": 634
+      },
+      {
+        "question": "How many legs does a dog have?",
+        "answers": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "correctAnswer": "Four",
+        "id": 635
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "status": 0,
+    "questions": [
+      {
+        "question": "Is that your _____? - Yes, it is.",
+        "answers": [
+          "school",
+          "schools",
+          "a school",
+          "the school"
+        ],
+        "correctAnswer": "school",
+        "id": 636
+      },
+      {
+        "question": "Sit _____, please.",
+        "answers": [
+          "up",
+          "down",
+          "in",
+          "on"
+        ],
+        "correctAnswer": "down",
+        "id": 637
+      },
+      {
+        "question": "_____ in, please.",
+        "answers": [
+          "Come",
+          "Go",
+          "Sit",
+          "Stand"
+        ],
+        "correctAnswer": "Come",
+        "id": 638
+      },
+      {
+        "question": "We use them to remove pencil marks. They are _____",
+        "answers": [
+          "erasers",
+          "eraser",
+          "an eraser",
+          "pencils"
+        ],
+        "correctAnswer": "erasers",
+        "id": 639
+      },
+      {
+        "question": "Let's play _____ with paddles and a small ball on a table.",
+        "answers": [
+          "table tennis",
+          "football",
+          "chess",
+          "badminton"
+        ],
+        "correctAnswer": "table tennis",
+        "id": 640
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "status": 0,
+    "questions": [
+      {
+        "question": "My _____ is a doctor. He is my mother's husband.",
+        "answers": [
+          "father",
+          "sister",
+          "baby",
+          "cat"
+        ],
+        "correctAnswer": "father",
+        "id": 641
+      },
+      {
+        "question": "Don't make a _____, please.",
+        "answers": [
+          "noise",
+          "noisy",
+          "quiet",
+          "good"
+        ],
+        "correctAnswer": "noise",
+        "id": 642
+      },
+      {
+        "question": "This is Lan. She is my _____",
+        "answers": [
+          "friend",
+          "friends",
+          "friendly",
+          "friendship"
+        ],
+        "correctAnswer": "friend",
+        "id": 643
+      },
+      {
+        "question": "May I open the window? - Yes, you _____",
+        "answers": [
+          "can",
+          "cannot",
+          "can't",
+          "do"
+        ],
+        "correctAnswer": "can",
+        "id": 644
+      },
+      {
+        "question": "Touch the part of your face that you use to smell: your _____",
+        "answers": [
+          "nose",
+          "mouth",
+          "ear",
+          "eye"
+        ],
+        "correctAnswer": "nose",
+        "id": 645
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "status": 0,
+    "questions": [
+      {
+        "question": "See you _____",
+        "answers": [
+          "later",
+          "late",
+          "lately",
+          "latest"
+        ],
+        "correctAnswer": "later",
+        "id": 646
+      },
+      {
+        "question": "May I go _____?",
+        "answers": [
+          "out",
+          "in",
+          "up",
+          "down"
+        ],
+        "correctAnswer": "out",
+        "id": 647
+      },
+      {
+        "question": "What color is snow? - It is _____",
+        "answers": [
+          "white",
+          "black",
+          "red",
+          "blue"
+        ],
+        "correctAnswer": "white",
+        "id": 648
+      },
+      {
+        "question": "The children play outside in the _____",
+        "answers": [
+          "playground",
+          "library",
+          "school",
+          "classroom"
+        ],
+        "correctAnswer": "playground",
+        "id": 649
+      },
+      {
+        "question": "Is this your _____? - No, it isn't.",
+        "answers": [
+          "classroom",
+          "classrooms",
+          "a classroom",
+          "the classroom"
+        ],
+        "correctAnswer": "classroom",
+        "id": 650
+      }
+    ]
   }
+
 ]
