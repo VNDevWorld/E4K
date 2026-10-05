@@ -1223,36 +1223,36 @@
     "id": 21,
     "questions": [
       {
-        "question": "“Is your classroom big?” nghĩa là:",
+        "question": "Which question asks about the size of your classroom?",
         "answers": [
-          "Trường bạn to phải không?",
-          "Lớp bạn to phải không?",
-          "Thư viện to phải không?",
-          "Nhà bạn to phải không?"
+          "Is your school new?",
+          "Is your classroom big?",
+          "Is the library open?",
+          "Is your house small?"
         ],
-        "correctAnswer": "Lớp bạn to phải không?",
+        "correctAnswer": "Is your classroom big?",
         "id": 101
       },
       {
-        "question": "“Xin phép được viết bài” ta nói?",
+        "question": "What do you say when you want permission to write?",
         "answers": [
           "May I speak?",
           "May I write?",
           "May I come in?",
-          "May I talk?"
+          "May I go out?"
         ],
         "correctAnswer": "May I write?",
         "id": 102
       },
       {
-        "question": "“ Kia là phòng máy tính” nói sao?",
+        "question": "You are pointing to a room with many computers. What do you say?",
         "answers": [
-          "That’s the gym",
-          "That’s the playground",
-          "That’s the computer room",
-          "That’s my room"
+          "That's the gym.",
+          "That's the playground.",
+          "That's the computer room.",
+          "That's the library."
         ],
-        "correctAnswer": "That’s the computer room",
+        "correctAnswer": "That's the computer room.",
         "id": 103
       },
       {
