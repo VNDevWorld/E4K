@@ -2659,7 +2659,7 @@
         "id": 218
       },
       {
-        "question": "\"Lớp học của bạn ở đâu?\" in English:",
+        "question": "You want to find your friend's classroom. What do you ask?",
         "answers": [
           "Where is your classroom?",
           "What is your name?",
@@ -2670,7 +2670,7 @@
         "id": 219
       },
       {
-        "question": "\"Đây là cây viết của tôi\" in English:",
+        "question": "You want to tell a friend that this pen is yours. What do you say?",
         "answers": [
           "This is my pen",
           "This is my book",

@@ -342,31 +342,31 @@
   "id": 11,
   "questions":
   [{
-    "question": "Sắp xếp các từ sau: \n picture/ my/ this/ of/ village/ is/ a",
+    "question": "Put the words in order:\npicture/ my/ this/ of/ village/ is/ a",
     "answers": ["This a picture is of my village.","This is a picture of my village.","This a village is of my picture.","This is a village is of my picture."],
     "correctAnswer": "This is a picture of my village.",
     "id": 51
   },
     {
-      "question": "Sắp xếp các từ sau: \n to/ happy/ you./ birthday/ gift/ you/ for/ this /is/",
+      "question": "Put the words in order:\nto/ happy/ you./ birthday/ gift/ you/ for/ this /is/",
       "answers": ["Happy birthday to you. This gift is for you.", "Happy gift to you. This birthday is for you.", "Happy birthday gift to you. This is for you.", "Happy gift birthday to you. This is for you."],
       "correctAnswer": "Happy birthday to you. This gift is for you.",
       "id": 52
     },
     {
-      "question": "Sắp xếp các từ sau: \n is/ hometown/ your/ like/ what/?",
+      "question": "Put the words in order:\nis/ hometown/ your/ like/ what/?",
       "answers": ["What is your hometown like?", "What is your like hometown?", "What hometown is your like?", "What hometown like your is?"],
       "correctAnswer": "What is your hometown like?",
       "id": 53
     },
     {
-      "question": "Sắp xếp các từ sau: \n hometown/ beautiful/ my/ is/ peaceful/ and",
+      "question": "Put the words in order:\nhometown/ beautiful/ my/ is/ peaceful/ and",
       "answers": ["My hometown is and beautiful peaceful.", "My beautiful and peaceful hometown is.", "My peaceful and beautiful hometown is.", "My hometown is beautiful and peaceful."],
       "correctAnswer": "My hometown is beautiful and peaceful.",
       "id": 54
     },
     {
-      "question": "Sắp xếp các từ sau: \n in/ Nam/ a/ and/ big/ lives/ city/ busy",
+      "question": "Put the words in order:\nin/ Nam/ a/ and/ big/ lives/ city/ noisy",
       "answers": ["Nam lives in a city big and noisy.", "Nam in lives a big and noisy city.", "Nam lives in a big and noisy city.", "in a big and noisy city Nam lives."],
       "correctAnswer": "Nam lives in a big and noisy city.",
       "id": 55
@@ -376,31 +376,31 @@
   "id": 12,
   "questions":
   [{
-    "question": "Chọn từ sai: \n Phong lives on his family in Hai Phong, Vietnam.",
+    "question": "Find the wrong word:\nPhong lives on his family in Hai Phong, Vietnam.",
     "answers": ["lives", "in", "his", "on"],
     "correctAnswer": "on",
     "id": 56
   },
     {
-      "question": "Chọn từ sai: \n Do your live in the countryside?",
+      "question": "Find the wrong word:\nDo your live in the countryside?",
       "answers": ["do", "your", "live", "in"],
       "correctAnswer": "your",
       "id": 57
     },
     {
-      "question": "Chọn từ sai: \n Nga and Quan lives at 56 Duy Tan Street.",
+      "question": "Find the wrong word:\nNga and Quan lives at 56 Duy Tan Street.",
       "answers": ["and", "at", "street", "lives"],
       "correctAnswer": "lives",
       "id": 58
     },
     {
-      "question": "Chọn từ sai: \n I lives in flat 203 on the second floor of SM tower.",
+      "question": "Find the wrong word:\nI lives in flat 203 on the second floor of SM tower.",
       "answers": ["lives", "in", "of", "on"],
       "correctAnswer": "lives",
       "id": 59
     },
     {
-      "question": "Chọn từ sai: \n Where are you come from?",
+      "question": "Find the wrong word:\nWhere are you come from?",
       "answers": ["where", "come", "are", "from"],
       "correctAnswer": "are",
       "id": 60
@@ -410,31 +410,31 @@
   "id": 13,
   "questions":
   [{
-    "question": "Điền từ còn thiếu: \n  What does she do ____ break time? - She often sings with his friends.",
+    "question": "Fill in the blank:\nWhat does she do ____ break time? - She often sings with her friends.",
     "answers": ["in", "at", "for", "with"],
     "correctAnswer": "at",
     "id": 61
   },
     {
-      "question": "Điền từ còn thiếu: \n  What does your mother do in the evening? - She ______ TV and goes to bed.",
+      "question": "Fill in the blank:\nWhat does your mother do in the evening? - She ______ TV and goes to bed.",
       "answers": ["watch", "watches", "watching", "watcher"],
       "correctAnswer": "watches",
       "id": 62
     },
     {
-      "question": "Điền từ còn thiếu: \n  She never goes ________.",
+      "question": "Fill in the blank:\nShe never goes ________.",
       "answers": ["jog", "jogs", "jogging", "joges"],
       "correctAnswer": "jogging",
       "id": 63
     },
     {
-      "question": "Điền từ còn thiếu: \n He watches films ______ lunch.",
+      "question": "Fill in the blank:\nLunch is over. He watches films ______ lunch.",
       "answers": ["after", "before", "in", "about"],
       "correctAnswer": "after",
       "id": 64
     },
     {
-      "question": "Điền từ còn thiếu: \n _________ does Linda go to the gym? - Three times a week.",
+      "question": "Fill in the blank:\n_________ does Linda go to the gym? - Three times a week.",
       "answers": ["How", "Where", "How often", "What"],
       "correctAnswer": "How often",
       "id": 65
@@ -444,31 +444,31 @@
   "id": 14,
   "questions":
   [{
-    "question": "Điền từ còn thiếu: \n James often get up ________ in the morning.",
+    "question": "Fill in the blank:\nJames often gets up ________ in the morning.",
     "answers": ["Early", "Bad", "Lately", "Nice"],
     "correctAnswer": "Early",
     "id": 66
   },
     {
-      "question": "Điền từ còn thiếu: \n Do you _______ to the cinema centre in the evening?",
+      "question": "Fill in the blank:\nDo you _______ to the cinema in the evening?",
       "answers": ["Usually go", "Go usually", "Sometime goes", "Go always"],
       "correctAnswer": "Usually go",
       "id": 67
     },
     {
-      "question": "Điền từ còn thiếu: \n Mary __________ helps her mother cook dinner.",
+      "question": "Fill in the blank:\nMary __________ helps her mother cook dinner.",
       "answers": ["How", "Does", "Sometimes", "Once a day"],
       "correctAnswer": "Sometimes",
       "id": 68
     },
     {
-      "question": "Điền từ còn thiếu: \n ________ does he do every morning?",
+      "question": "Fill in the blank:\n________ does he do every morning?",
       "answers": ["Which", "What", "What time", "When"],
       "correctAnswer": "What",
       "id": 69
     },
     {
-      "question": "Điền từ còn thiếu: \n _______? – I am reading books.",
+      "question": "Fill in the blank:\n_______ – I am reading books.",
       "answers": ["What are you doing?", "What do you do in the morning?", "How often do you read books?", "Are you reading books?"],
       "correctAnswer": "What are you doing?",
       "id": 70

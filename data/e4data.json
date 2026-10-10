@@ -807,7 +807,7 @@
         "id": 66
       },
       {
-        "question": "Sắp xếp các từ sau: \n We/ yesterday/ were/ schoolyard/ not/ in/ the/ ./",
+        "question": "Put the words in order:\nWe/ yesterday/ were/ schoolyard/ not/ in/ the/ ./",
         "answers": [
           "We were not in the yesterday schoolyard",
           "We were in not the schoolyard yesterday",
@@ -818,7 +818,7 @@
         "id": 67
       },
       {
-        "question": "Sắp xếp các từ sau: \n his/ What/ did/ friends/ yesterday/ do/ ?/",
+        "question": "Put the words in order:\nhis/ What/ did/ friends/ yesterday/ do/ ?/",
         "answers": [
           "What did his friends yesterday do?",
           "What did his friends do yesterday?",
@@ -829,7 +829,7 @@
         "id": 68
       },
       {
-        "question": "Sắp xếp các từ sau: \n many/ months/ are/ how/ there/ year/ a/ in/ ?/",
+        "question": "Put the words in order:\nmany/ months/ are/ how/ there/ year/ a/ in/ ?/",
         "answers": [
           "How many months are there in a year?",
           "How many there are months in a year?",
