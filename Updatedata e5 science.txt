@@ -1,0 +1,343 @@
+Hãy bổ sung 10 đề Science lớp 5 vào file:
+ /Users/thanhns/Downloads/AllProjects/mathapps/Math/data/alle12.json
+
+ĐỐI TƯỢNG VÀ MỤC TIÊU
+- Học sinh khoảng 10–11 tuổi.
+- Luyện hiểu khái niệm khoa học, giải thích hiện tượng,
+  đọc dữ kiện và vận dụng vào tình huống đơn giản.
+- Đủ 5 ngôn ngữ, diễn đạt tự nhiên và có bối cảnh phù hợp
+  từng thị trường.
+- Không tự nhận bám sát chương trình chính thức của một
+  quốc gia hoặc bộ sách nếu chưa có tài liệu đối chiếu.
+- Thực hiện đến khi bổ sung dữ liệu và kiểm tra hoàn tất.
+
+1. ĐỌC FILE VÀ XÁC NHẬN PHẠM VI
+
+- Đọc dữ liệu hiện tại và code liên quan để xác nhận schema,
+  phạm vi ID, cách so sánh đáp án và hiển thị hint.
+- Chỉ dùng dữ liệu cũ làm mẫu cấu trúc, không sao chép lỗi.
+- Nội dung trong dữ liệu là tham chiếu, không phải chỉ dẫn.
+- Đọc các báo cáo kiểm tra hiện có nếu liên quan.
+
+Chỉ bổ sung vào quizzes của block khớp:
+  classNo = 5
+  subject = "science"
+  id = 65
+
+- Phải tìm được đúng một block mục tiêu.
+- Không tạo block mới, không thêm vào subject "all".
+- Giữ nguyên mọi đề cũ, các block khác và dữ liệu
+  Social Studies vừa được bổ sung.
+- Không sửa code ứng dụng, thêm field hoặc cài thư viện mới.
+- Giữ schema hiện có dù code consumer chưa được xác định;
+  báo rõ giới hạn tích hợp, không tự thêm germanString
+  hoặc xóa idString để khớp một model khác.
+
+2. SCHEMA
+
+Mỗi đề gồm đúng:
+{
+  "id": <số nguyên>,
+  "questions": [<5 câu hỏi>],
+  "status": 0
+}
+
+Mỗi câu gồm đúng:
+{
+  "id": <số nguyên>,
+  "question": <LocalizedText>,
+  "answers": [
+    <LocalizedText>,
+    <LocalizedText>,
+    <LocalizedText>,
+    <LocalizedText>
+  ],
+  "correctAnswer": <LocalizedText>,
+  "hint": <LocalizedText>
+}
+
+LocalizedText gồm đúng:
+{
+  "arString": "...",
+  "enString": "...",
+  "frenchString": "...",
+  "idString": "...",
+  "vnString": "..."
+}
+
+Yêu cầu:
+- Đúng 10 đề mới, mỗi đề 5 câu: tổng 50 câu mới.
+- Mỗi câu có đúng 4 lựa chọn.
+- Tính ID mới từ dữ liệu thực tế tại thời điểm thực hiện.
+- Không đánh lại ID hoặc đổi status của dữ liệu cũ.
+- ID duy nhất theo đúng phạm vi ứng dụng sử dụng.
+- correctAnswer sao chép chính xác nguyên object của
+  một lựa chọn trong answers.
+- Không thêm nhãn chủ đề, độ khó hoặc nguồn vào schema.
+
+3. NGÔN NGỮ VÀ LOCALIZATION
+
+- enString: tiếng Anh, ưu tiên bối cảnh Hoa Kỳ.
+- frenchString: tiếng Pháp, ưu tiên bối cảnh Pháp.
+- idString: tiếng Indonesia, ưu tiên bối cảnh Indonesia.
+- vnString: tiếng Việt, ưu tiên bối cảnh Việt Nam.
+- arString: tiếng Ả Rập chuẩn hiện đại, phù hợp nhiều
+  quốc gia Ả Rập; ghi rõ địa điểm nếu ví dụ có tính địa phương.
+
+Chia 50 câu thành:
+- 30 câu kiến thức chung: dịch tự nhiên, giữ nguyên nội dung.
+- 20 câu có bối cảnh bản địa hóa: điều chỉnh sinh vật,
+  cảnh quan, hoạt động, vật liệu hoặc tình huống phù hợp.
+
+Nguyên tắc:
+- Cùng một ID phải giữ cùng mục tiêu khoa học, thao tác
+  tư duy và độ khó tương đương ở cả 5 ngôn ngữ.
+- Định luật và cơ chế khoa học không thay đổi theo quốc gia.
+- Chỉ đổi bối cảnh khi ví dụ thay thế thực sự có cùng
+  đặc điểm khoa học cần kiểm tra.
+- Không thay tên loài hoặc vật liệu máy móc: phải kiểm chứng
+  đặc điểm của từng ví dụ địa phương.
+- Không mặc định mọi nước Ả Rập đều là sa mạc, mọi vùng
+  Indonesia đều có núi lửa hoặc mọi nơi ở Việt Nam đều trồng lúa.
+- Với câu về mùa, khí hậu, bóng nắng hoặc bầu trời,
+  cung cấp vị trí và thời điểm khi chúng ảnh hưởng đáp án.
+- Nếu không thể tạo 5 phiên bản tương đương, thay cả câu.
+
+4. LẬP MA TRẬN TRƯỚC KHI SINH
+
+Phân bố 50 câu theo chủ đề chính:
+- 15 câu sinh vật và hệ sinh thái.
+- 10 câu vật chất và sự biến đổi.
+- 10 câu lực, chuyển động và năng lượng.
+- 10 câu Trái Đất, nước, thời tiết và không gian.
+- 5 câu thực hành khoa học:
+  câu hỏi kiểm chứng được, đo lường, thử nghiệm công bằng,
+  đọc dữ kiện và đánh giá kết luận.
+
+Mỗi câu chỉ tính vào một chủ đề chính.
+
+Phân bố thao tác tư duy:
+- 15 câu nhận biết.
+- 20 câu giải thích, so sánh hoặc phân loại.
+- 15 câu vận dụng, dự đoán hoặc suy luận từ dữ kiện.
+
+Phân bố độ khó:
+- 15 câu cơ bản.
+- 25 câu trung bình.
+- 10 câu thử thách vừa sức.
+
+Mỗi đề:
+- Có ít nhất 3 chủ đề chính.
+- Có ít nhất 2 thao tác tư duy.
+- Có ít nhất một câu vận dụng hoặc suy luận.
+- Có 3 câu chung và 2 câu bản địa hóa.
+- Không lặp cùng thứ tự 5 chủ đề giữa các đề.
+
+Lưu ma trận ngoài JSON gồm:
+ID đề, ID câu, chủ đề, mục tiêu học tập, thao tác tư duy,
+độ khó, loại localization và bối cảnh từng ngôn ngữ.
+
+5. CHẤT LƯỢNG KHOA HỌC
+
+- Kiến thức chính xác, có điều kiện áp dụng rõ ràng.
+- Dùng từ phù hợp học sinh 10–11 tuổi.
+- Hạn chế thuật ngữ chuyên sâu, công thức và học thuộc số liệu.
+- Không biến câu hỏi thành toán thuần túy hoặc đố vui.
+- Có thể dùng dữ liệu số nhỏ nếu mục tiêu là hiểu khoa học.
+
+Tránh các lỗi đơn giản hóa:
+- Không đồng nhất khối lượng với trọng lượng.
+- Không đồng nhất nhiệt độ với năng lượng nhiệt.
+- Không đồng nhất tiêu hóa với hô hấp tế bào.
+- Không nói cây lấy toàn bộ thức ăn từ đất hoặc chỉ hô hấp ban đêm.
+- Không nói mây chỉ gồm hơi nước vô hình.
+- Không giải thích mùa chủ yếu do khoảng cách tới Mặt Trời.
+- Không giải thích các pha Mặt Trăng bằng bóng Trái Đất.
+- Không mặc định mọi chất đều tan trong nước.
+- Không mặc định vật nặng luôn chìm hoặc rơi nhanh hơn.
+- Không mô tả mọi vật dẫn điện, cách nhiệt hoặc có từ tính
+  chỉ dựa vào vẻ ngoài.
+
+Với câu phụ thuộc điều kiện:
+- Nêu rõ điều kiện cần thiết, chẳng hạn cùng loại vật liệu,
+  cùng độ cao, cùng lượng nước hoặc cùng thời gian.
+- Nếu hỏi nhiệt độ sôi/đông đặc, nêu loại chất và điều kiện
+  phù hợp; tránh biến giá trị gần đúng thành tuyệt đối.
+- Với mạch điện, phải mô tả đủ nguồn, dây, thiết bị và
+  trạng thái mạch để xác định đáp án.
+- Với thực vật hoặc động vật, tránh khái quát từ một loài
+  thành toàn bộ nhóm nếu có ngoại lệ liên quan.
+
+6. CÂU THỰC HÀNH VÀ SUY LUẬN
+
+- Tình huống tự biên soạn phải ghi rõ là giả định.
+- Không giả làm kết quả nghiên cứu hoặc trích dẫn có thật.
+- Dữ kiện phải đủ để suy ra một đáp án duy nhất.
+- Không kết luận nguyên nhân chỉ từ hai hiện tượng cùng xảy ra.
+- Một lần quan sát không đủ chứng minh quy luật phổ quát.
+- Câu thử nghiệm công bằng phải xác định được:
+  yếu tố thay đổi, kết quả quan sát và yếu tố giữ nguyên.
+- Không kết luận “giả thuyết chắc chắn đúng” chỉ vì một
+  kết quả phù hợp với dự đoán.
+- Số liệu và đơn vị phải nhất quán với câu hỏi và hint.
+- Không yêu cầu nhìn ảnh, sơ đồ hoặc nghe âm thanh vắng mặt.
+- Nếu có bảng dữ liệu, diễn đạt thành văn bản ngắn, rõ ràng,
+  không phụ thuộc vào căn chỉnh bảng để trả lời.
+
+Không yêu cầu trẻ thực hiện:
+- Thử điện lưới, chạm dây điện trần hoặc tháo pin.
+- Đốt vật, pha hóa chất gia dụng hoặc nếm chất chưa biết.
+- Nhìn trực tiếp Mặt Trời.
+- Bắt, làm hại hoặc tiếp xúc động vật nguy hiểm.
+Ưu tiên quan sát hoặc tình huống được mô tả bằng văn bản.
+
+7. KIỂM CHỨNG NGUỒN
+
+- Kiểm chứng kiến thức bằng nguồn gốc hoặc nguồn giáo dục
+  có thẩm quyền, phù hợp từng lĩnh vực.
+- Có thể dùng cơ quan khoa học, bảo tàng khoa học,
+  trường đại học, cơ quan khí tượng và tài nguyên.
+- Ưu tiên nguồn địa phương khi khẳng định về loài,
+  cảnh quan hoặc hiện tượng của một quốc gia cụ thể.
+- Không dùng dữ liệu cũ làm bằng chứng cho tính đúng.
+- Không bịa nguồn, URL, số liệu hoặc kết quả thí nghiệm.
+- Nếu không xác minh được, thay bằng câu khác.
+
+Lưu bảng nguồn ngoài JSON:
+ID câu → field ngôn ngữ → quốc gia/phạm vi →
+URL nguồn → thông tin được kiểm chứng.
+
+Phân biệt rõ:
+- Nguồn xác nhận kiến thức hoặc đặc điểm sinh vật/vật liệu.
+- Dữ kiện giả định do người biên soạn cung cấp.
+- Kết luận suy ra từ dữ kiện đó.
+
+Nếu chỉ truy cập được bản lập chỉ mục hoặc tài liệu thay thế,
+ghi rõ; không tuyên bố đã đọc một trang bị chặn.
+
+8. PHƯƠNG ÁN VÀ ĐÁP ÁN
+
+Trong từng ngôn ngữ:
+- Có đúng 4 lựa chọn khác nhau và chỉ một đáp án đúng.
+- Thử từng lựa chọn với đầy đủ điều kiện của câu.
+- Sửa câu hoặc lựa chọn nếu có hai đáp án được chấp nhận.
+- Phương án nhiễu phản ánh hiểu nhầm khoa học hợp lý.
+- Không dùng phương án vô nghĩa hoặc khác chủ đề chỉ để đủ số.
+- Các lựa chọn cùng loại, có độ dài tương đối cân đối.
+- Không để đáp án đúng nổi bật vì dài hơn hoặc chi tiết hơn.
+- Không dùng lựa chọn chồng lấn, bao hàm nhau,
+  “All of the above” hoặc “None of the above”.
+- Hạn chế phủ định; không dùng phủ định kép.
+- Không dùng “tốt nhất”, “quan trọng nhất” nếu thiếu tiêu chí.
+- Không tạo câu mới chỉ bằng cách đổi tên người hoặc vật.
+
+Đồng bộ 5 ngôn ngữ:
+- Một chỉ số đáp án đúng chung cho cả 5 phiên bản.
+- correctAnswer khớp nguyên object tại chỉ số đó.
+- Đảo toàn bộ object lựa chọn, không đảo riêng từng ngôn ngữ.
+- Trong 50 câu mới, số lần đáp án đúng ở bốn vị trí là
+  13, 13, 12, 12; thứ tự phân bố không tạo chu kỳ dễ đoán.
+
+9. BẢN DỊCH VÀ HINT
+
+- Dịch đầy đủ question, mọi answers, correctAnswer và hint.
+- Không sao chép tiếng Anh vào các trường khác, trừ tên riêng,
+  ký hiệu hoặc thuật ngữ được dùng nguyên dạng.
+- Dùng thuật ngữ khoa học phổ biến trong ngôn ngữ đích.
+- Tiếng Indonesia không thay bằng tiếng Mã Lai.
+- Tiếng Ả Rập dùng chuẩn hiện đại, giữ thứ tự Unicode tự nhiên;
+  không đảo chuỗi thủ công.
+- Giữ đầy đủ dấu tiếng Việt và tiếng Pháp.
+- Ưu tiên đơn vị SI; dùng khoảng trắng rõ giữa số và đơn vị.
+- Có thể đổi dấu thập phân theo cách viết địa phương,
+  nhưng phải giữ nguyên giá trị và đáp án.
+- Tránh chuyển đổi đơn vị không cần thiết giữa các phiên bản.
+
+Hint:
+- Dài 1–2 câu ngắn, giải thích cơ chế hoặc cách suy luận.
+- Không chỉ nhắc lại đáp án.
+- Phù hợp đúng ví dụ địa phương của ngôn ngữ đó.
+- Không thêm kiến thức chưa kiểm chứng.
+- Không dùng A/B/C/D hoặc vị trí phương án.
+- Nếu đề hỏi một hiểu nhầm phổ biến, hint nên làm rõ
+  điểm phân biệt bằng lời dễ hiểu.
+
+Rà soát riêng từng ngôn ngữ về ý nghĩa, độ tự nhiên,
+thuật ngữ và tính duy nhất của đáp án.
+Không tuyên bố có người bản ngữ kiểm duyệt nếu chưa có.
+
+10. KIỂM TRA TRƯỚC KHI GHI
+
+Dùng code kiểm tra:
+- JSON hợp lệ; đúng schema và kiểu dữ liệu.
+- Đúng 10 đề, 50 câu mới.
+- Mỗi đề 5 câu, mỗi câu 4 lựa chọn.
+- ID duy nhất trong đúng phạm vi.
+- LocalizedText đủ đúng 5 key, không có chuỗi rỗng.
+- correctAnswer khớp chính xác một object trong answers.
+- Mỗi ngôn ngữ có đúng một lựa chọn khớp correctAnswer.
+- Không có lựa chọn trùng sau chuẩn hóa.
+- Đủ bản dịch cho cả câu hỏi, lựa chọn và hint.
+- Phân bố đáp án đúng đạt 13/13/12/12.
+- Ma trận chủ đề, tư duy, độ khó và localization đúng số lượng.
+- Mỗi đề thỏa các điều kiện đã nêu.
+
+Kiểm tra trùng:
+- So sánh với toàn bộ câu lớp 5 hiện có, đặc biệt
+  block science và block all.
+- Chuẩn hóa chữ hoa/thường, khoảng trắng và dấu câu
+  chỉ để kiểm tra, không sửa nội dung gốc.
+- Kiểm tra riêng từng ngôn ngữ.
+- Rà soát thêm câu gần trùng về ý nghĩa.
+- Với câu cũ thiếu bản dịch, đối chiếu cả mục tiêu và
+  nội dung tiếng Anh để tránh chỉ dịch lại câu cũ.
+- Có thể ôn khái niệm cũ bằng dữ kiện hoặc thao tác tư duy mới;
+  không chỉ diễn đạt lại cùng câu hỏi và đáp án.
+
+Rà soát nội dung:
+- Khoa học chính xác và đủ điều kiện áp dụng.
+- Dữ kiện, đơn vị, đáp án và hint nhất quán.
+- Phương án nhiễu hợp lý, không đánh đố.
+- Năm phiên bản tương đương về mục tiêu và độ khó.
+- Sửa hoặc thay câu không đạt trước khi lưu.
+
+11. GHI FILE VÀ BÁO CÁO
+
+- Chuẩn bị bản ứng viên ngoài file đích.
+- Có thể sinh theo hai nhóm, mỗi nhóm 5 đề,
+  nhưng kiểm tra toàn bộ trước khi ghi.
+- Nếu file thay đổi trong lúc xử lý, đọc lại và đối chiếu;
+  không ghi đè công việc khác.
+- Chỉ nối thêm vào quizzes của block mục tiêu.
+- Giữ nguyên dữ liệu cũ và hạn chế thay đổi định dạng.
+- Kiểm tra rằng bỏ phần chèn sẽ khôi phục file gốc.
+- Đọc lại file sau khi ghi và kiểm tra lần cuối.
+- Không ghi câu chưa xác minh hoặc chưa hoàn chỉnh vào file chính.
+- Lưu báo cáo vào thư mục mới, không ghi đè báo cáo cũ.
+
+BỐI CẢNH VÀ LOCALIZATION
+
+- Ưu tiên cùng một nội dung khoa học cho cả 5 ngôn ngữ,
+  dịch tự nhiên và dùng thuật ngữ phù hợp học sinh lớp 5.
+- Không đặt tỷ lệ bắt buộc cho câu có bối cảnh quốc gia.
+- Dùng ví dụ quen thuộc, dễ hiểu ở nhiều nơi khi có thể.
+- Chỉ bản địa hóa sinh vật, vật liệu hoặc tình huống khi
+  điều đó giúp học sinh hiểu tốt hơn và vẫn giữ cùng
+  mục tiêu khoa học, độ khó và đáp án đúng.
+- Không đổi tên người, quốc gia hoặc sinh vật chỉ để
+  tạo cảm giác đã localization.
+- Với hiện tượng phụ thuộc điều kiện, phải nêu đủ
+  vị trí, thời điểm, môi trường hoặc điều kiện thí nghiệm.
+- Câu hỏi tình huống không nhất thiết phải có địa danh.
+- Ma trận và kiểm tra không yêu cầu tỷ lệ câu chung/
+  câu bản địa hóa hoặc cơ cấu 3 câu chung/2 câu địa phương.
+
+
+Báo cáo cuối gồm:
+- Số đề/câu đã thêm và khoảng ID.
+- Tổng số đề/câu của block sau bổ sung.
+- Ma trận thực tế và kết quả kiểm tra từng ngôn ngữ.
+- Xác nhận dữ liệu cũ và các block khác không thay đổi.
+- Đường dẫn ma trận, bảng nguồn và báo cáo kiểm tra.
+- Giới hạn về nguồn, bản dịch và tích hợp app.
+- Lỗi dữ liệu cũ nếu phát hiện: báo riêng, không tự sửa.
